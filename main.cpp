@@ -5,32 +5,32 @@
 
 class Game{
     public:
-        Game(int homeTeamToSet, int awayTeamToSet){
-            homeTeam = homeTeamToSet;
+        Game(std::string awayTeamToSet, std::string homeTeamToSet){
             awayTeam = awayTeamToSet;
-        };
+            homeTeam = homeTeamToSet;
+        }
         void setRefCrew(char refCrewToSet);
-        void setHomeTeam(int homeTeamToSet);
-        void setAwayTeam(int awayTeamToSet);
+        void setHomeTeam(std::string homeTeamToSet);
+        void setAwayTeam(std::string awayTeamToSet);
         char getRefCrew();
-        int getHomeTeam();
-        int getAwayTeam();
+        std::string getHomeTeam();
+        std::string getAwayTeam();
 
     private:
         char refCrew; // A-E
-        int homeTeam;
-        int awayTeam;
+        std::string awayTeam;
+        std::string homeTeam;
 };
 
 void Game::setRefCrew(char refCrewToSet){
     refCrew = refCrewToSet;
 }
 
-void Game::setHomeTeam(int homeTeamToSet){
+void Game::setHomeTeam(std::string homeTeamToSet){
     homeTeam = homeTeamToSet;
 }
 
-void Game::setAwayTeam(int awayTeamToSet){
+void Game::setAwayTeam(std::string awayTeamToSet){
     awayTeam = awayTeamToSet;
 }
 
@@ -38,26 +38,25 @@ char Game::getRefCrew(){
     return refCrew;
 }
 
-int Game::getHomeTeam(){
+std::string Game::getHomeTeam(){
     return homeTeam;
 }
 
-int Game::getAwayTeam(){
+std::string Game::getAwayTeam(){
     return awayTeam;
-}
-
-
-// FUNCTION: INITIALIZE SCHEDULE
-std::vector<std::vector<Game>> initializeSched(std::vector<int> teams, int numWeeks, int numGamesPerWeek){
-
 }
 
 int main(){
 
-    //Initialize teams
-    // LOR = 1, BVU = 2, DBQ = 3, WAR = 4, LUT = 5, NWU = 6, COE = 7, CEN = 8, SIM = 9;
-    std::vector<int> teams = {1,2,3,4,5,6,7,8,9};
+    //Initialize list of teams
+    std::vector<std::string> teams = {"LOR", "BVU", "DBQ","WAR","LUT","NWU","COE","CEN","SIM"};
 
+    //Initialize list of referees
+    std::vector<char> refs = {'A','B','C','D','E'};
+
+    //Initialize week 1 BVU vs. LOR, SIM vs DBQ, WAR vs CEN, COE vs LUT, the right team is home
+    Game game1("LOR","BVU");
+    Game game2("SIM","DBQ");
 
 
 
