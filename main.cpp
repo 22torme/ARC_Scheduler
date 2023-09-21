@@ -1,31 +1,36 @@
 #include <string>
 #include <iostream>
 #include <fstream> 
+#include <vector>
 
 class Game{
     public:
+        Game(int homeTeamToSet, int awayTeamToSet){
+            homeTeam = homeTeamToSet;
+            awayTeam = awayTeamToSet;
+        };
         void setRefCrew(char refCrewToSet);
-        void setHomeTeam(std::string homeTeamToSet);
-        void setAwayTeam(std::string awayTeamToSet);
+        void setHomeTeam(int homeTeamToSet);
+        void setAwayTeam(int awayTeamToSet);
         char getRefCrew();
-        std::string getHomeTeam();
-        std::string getAwayTeam();
+        int getHomeTeam();
+        int getAwayTeam();
 
     private:
         char refCrew; // A-E
-        std::string homeTeam;
-        std::string awayTeam;
+        int homeTeam;
+        int awayTeam;
 };
 
 void Game::setRefCrew(char refCrewToSet){
     refCrew = refCrewToSet;
 }
 
-void Game::setHomeTeam(std::string homeTeamToSet){
+void Game::setHomeTeam(int homeTeamToSet){
     homeTeam = homeTeamToSet;
 }
 
-void Game::setAwayTeam(std::string awayTeamToSet){
+void Game::setAwayTeam(int awayTeamToSet){
     awayTeam = awayTeamToSet;
 }
 
@@ -33,12 +38,42 @@ char Game::getRefCrew(){
     return refCrew;
 }
 
-std::string Game::getHomeTeam(){
+int Game::getHomeTeam(){
     return homeTeam;
 }
 
-std::string Game::getAwayTeam(){
+int Game::getAwayTeam(){
     return awayTeam;
+}
+
+
+// FUNCTION: INITIALIZE SCHEDULE
+std::vector<std::vector<Game>> initializeSched(std::vector<int> teams, int numWeeks, int numGamesPerWeek){
+
+}
+
+int main(){
+
+    //Initialize teams
+    // LOR = 1, BVU = 2, DBQ = 3, WAR = 4, LUT = 5, NWU = 6, COE = 7, CEN = 8, SIM = 9;
+    std::vector<int> teams = {1,2,3,4,5,6,7,8,9};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    return 0;
 }
 
 
