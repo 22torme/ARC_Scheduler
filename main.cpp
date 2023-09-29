@@ -13,12 +13,11 @@ class Game{
         // void setHomeTeam(std::string homeTeamToSet){homeTeam = homeTeamToSet;};
         // void setAwayTeam(std::string awayTeamToSet){awayTeam = awayTeamToSet;};
         char getRefCrew(){return refCrew;};
-        std::string getHomeTeam(){return homeTeam;};
         std::string getAwayTeam(){return awayTeam;};
-        std::vector<std::string> getTeams(){return {awayTeam, homeTeam};};
+        std::string getHomeTeam(){return homeTeam;};
 
     private:
-        char refCrew; // A-E
+        char refCrew = ' '; // A-E
         std::string awayTeam;
         std::string homeTeam;
 };
@@ -26,17 +25,143 @@ class Game{
 
 class Schedule{
     public:
+        //data structure
+        std::vector<std::vector<Game>> weeks;
+
+        //constructor
+        Schedule(std::vector<std::vector<Game>> weeks){
+            this->weeks = weeks;
+        }
+
         //assign refs
-        void assignRefs(int week, int game, char refCrew){weeks[week][game].setRefCrew(refCrew);};
-        char getRef(int week, int game){return weeks[week][game].getRefCrew();};
-        
+        void assignRef(int week, int game, char refCrew){weeks[week][game].setRefCrew(refCrew);};
+
         //return game
         Game getGame(int week, int game){return weeks[week][game];};
 
+        //return week
+        std::vector<Game> getWeek(int week){return weeks[week];};
 
-    private:
-        //Initialize weeks 3-11 the right team is home
-        std::vector<std::vector<Game>> weeks = {
+        //print schedule
+        void printSchedule(){
+            for(int i = 0; i < 9; i++){
+                std::cout << "Week " << i+3 << std::endl;
+                for(int j = 0; j < 4; j++){
+                    std::cout << weeks[i][j].getAwayTeam() << " @ " << weeks[i][j].getHomeTeam() << " Refs: " << weeks[i][j].getRefCrew() << std::endl;
+                }
+                std::cout << std::endl;
+            }
+        }
+
+        bool isComplete(){
+            for(int i = 0; i < 9; i++){
+                for(int j = 0; j < 4; j++){
+                    if(weeks[i][j].getRefCrew() == ' '){
+                        return false;
+                    }
+                }
+            }
+            return true;
+        }
+
+        bool isValid(int week, int game, char refCrew){
+
+            //check if ref has NOT reffed this week and last week... return false if true
+            int counter = 0;
+            if(week > 0){
+                for(int i = 0; i<4; i++){
+                    if(weeks[week-1][i].getRefCrew() == refCrew || weeks[week][i].getRefCrew() == refCrew){
+                        counter++;
+                    }
+                }
+                if(counter == 0){
+                    return false;
+                }
+            }
+            
+            //check if ref is already assigned for week
+            for(int i = 0; i<4; i++){
+                if(weeks[week][i].getRefCrew() == refCrew){
+                    return false;
+                }
+            }
+
+            //check if crew saw same team last week
+            if(week > 0){
+                for(int i = 0; i<4; i++){
+                    if(weeks[week-1][i].getRefCrew() == refCrew){
+                        if(weeks[week-1][i].getAwayTeam() == weeks[week][game].getAwayTeam() || weeks[week-1][i].getAwayTeam() == weeks[week][game].getHomeTeam() || weeks[week-1][i].getHomeTeam() == weeks[week][game].getAwayTeam() || weeks[week-1][i].getHomeTeam() == weeks[week][game].getHomeTeam()){
+                            return false;
+                        }
+                    }
+                }
+            }
+
+            //check if crew reffed home team at all
+            for(int i = 0; i<9; i++){
+                for(int j = 0; j<4; j++){
+                    if(weeks[i][j].getRefCrew() == refCrew){
+                        if(weeks[i][j].getHomeTeam() == weeks[week][game].getHomeTeam()){
+                            return false;
+                        }
+                    }
+                }
+            }
+
+            //check if ref has seen same team more than twice
+            int count = 0;
+            for(int i = 0; i<9; i++){
+                for(int j = 0; j<4; j++){
+                    if(weeks[i][j].getRefCrew() == refCrew){
+                        if(weeks[i][j].getAwayTeam() == weeks[week][game].getAwayTeam() || weeks[i][j].getAwayTeam() == weeks[week][game].getHomeTeam() || weeks[i][j].getHomeTeam() == weeks[week][game].getAwayTeam() || weeks[i][j].getHomeTeam() == weeks[week][game].getHomeTeam()){
+                            count++;
+                        }
+                    }
+                }
+            }
+            if(count > 2){
+                return false;
+            }
+
+
+            return true;
+        }
+
+};
+
+
+    
+bool Solve(Schedule &ARC){
+    
+    for(int i = 0; i < 9; i++){
+        for(int j = 0; j < 4; j++){
+
+            if(ARC.getGame(i,j).getRefCrew() == ' '){
+
+                for(char c = 'A'; c <= 'E'; c++){
+                    if(ARC.isValid(i,j,c)){
+                        ARC.assignRef(i,j,c);
+
+                        if(Solve(ARC) == true){
+                            return true;
+                        } else{
+                            ARC.assignRef(i,j,' ');
+                        }
+                    }
+                }
+                return false;
+            }
+        }
+    }     
+    return true;
+}
+
+
+int main(){
+
+    //initialize weeks. 9 weeks(0-8), 4 games per week(0-3)
+    std::vector<std::vector<Game>> weeks = {
+        {Game("BVU","LOR"), Game("SIM","DBQ"), Game("WAR","CEN"), Game("COE","LUT")},
         {Game("LOR","SIM"), Game("CEN","BVU"), Game("DBQ","COE"), Game("NWU","WAR")},
         {Game("COE","LOR"), Game("BVU","NWU"), Game("LUT","DBQ"), Game("SIM","CEN")},
         {Game("LOR","LUT"), Game("WAR","BVU"), Game("NWU","SIM"), Game("CEN","COE")},
@@ -47,80 +172,10 @@ class Schedule{
         {Game("LOR","WAR"), Game("DBQ","BVU"), Game("CEN","NWU"), Game("LUT","SIM")},
         };
 
-        //refs
-        std::vector<char> refs = {'A','B','C','D','E'};
 
-        //teams
-        std::vector<std::string> teams = {"LOR", "BVU", "DBQ","WAR","LUT","NWU","COE","CEN","SIM"};
-};
-
-//ALL FALSE FOR 1st week
-//bool reffedLastWeek
-//bool reffedTeamLastWeek
-//bool reffedTeamTwice
-//bool reffedTeamWhileBefore
-//is valid function]
-
-
-//helper functions
-bool isValid(Schedule ARC, int week, int game, char refCrew);
-
-// bool reffedLastWeek(Schedule ARC, int week, int game, char refCrew){
-//     if(week == 0){
-//         return false;
-//     }
-//     else{
-//         for (int i = 0; i < 4; i++){
-//             if(ARC.getRef(week-1,i) == refCrew){
-//                 if(){
-//                     return true;
-//                 }
-//             }
-//         }
-//         return false;
-//         }
-// };
-
-bool reffedTeamLastWeek(Schedule ARC, int week, int game, char refCrew){
-    if(week == 0){
-        return false;
-    }
-    else{
-        for (int i = 0; i < 4; i++){
-            if(ARC.getRef(week-1,i) == refCrew){
-                return true;
-            }
-        }
-        return false;
-        }
-}
-
-
-
-
-
-//solution return list[8] of strings ex:
-// ["ABCD","ABCE","ABDE","ACDE","BCDE", "CDEA", "ABCD", "ABCD"]
-
-// std::vector<std::string> solve(Schedule ARC, int week, int game, std::vector<std::string> &solution);
-
-
-int main(){
-
-
-    //using a backtracking algorithm, assign referees to games under the following hard constraints:
-    // Each week, there are 4 conference games, so one crew will have the week off. 
-    // No crew is allowed to have 2 weeks off in a row. 
-    // No crew is allowed to see the same team 2 weeks in a row. 
-    // No crew is allowed to see the same team more than 2 times in a season. 
-    // No crew is allowed to go to the same site more than once in a season. 
-    // Crews will be assigned to 7 games minimum, one crew will be assigned to 8 games.
-
-    Schedule ARC;
-
-    ARC.assignRefs(0,0,'A');
-    std::cout << ARC.getRef(0,0) << std::endl;
-    std::cout << ARC.getGame(0,0).getHomeTeam() << std::endl;
+    Schedule ARC(weeks);
+    Solve(ARC);
+    ARC.printSchedule();
 
     return 0;
 }
