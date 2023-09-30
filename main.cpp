@@ -1,6 +1,7 @@
 #include <string>
 #include <iostream>
 #include <vector>
+#include <algorithm>
 
 class Game {
 public:
@@ -26,7 +27,7 @@ public:
     Game& getGame(int week, int game) { return weeks[week][game]; }
     std::vector<Game> getWeek(int week) const { return weeks[week]; }
     void printSchedule() const;
-
+    char getRef(int week, int game) const { return weeks[week][game].getRefCrew(); }
     bool isComplete() const;
     bool isValid(int week, int game, char refCrew) const;
 
@@ -34,58 +35,153 @@ private:
     std::vector<std::vector<Game>> weeks;
 };
 
-bool Solve(Schedule& ARC);
+// bool Solve(Schedule& ARC, std::vector<int>& refAssignments, int weekIndex = 0, int gameIndex = 0){
+//     // If all weeks are processed, check if every referee has been assigned to at least 7 games
+//     if (weekIndex == 9) {
+//         for (int count : refAssignments) {
+//             if (count < 7) {
+//                 return false;  // Not all referees have the minimum assignments
+//             }
+//         }
+//         return true;  // Every referee has been assigned to at least 7 games, and the schedule is complete
+//     }
 
+//     // If all games for this week are processed, move to the next week
+//     if (gameIndex == 5) {
+//         return Solve(ARC, refAssignments, weekIndex + 1, 0);
+//     }
 
+//     // If this game already has a ref, skip to the next game
+//     if (ARC.getRef(weekIndex, gameIndex) != ' ') {
+//         return Solve(ARC, refAssignments, weekIndex, gameIndex + 1);
+//     }
 
+//     // Try to assign each ref crew
+//     for (char c = 'A'; c <= 'E'; c++) {
+//         if (ARC.isValid(weekIndex, gameIndex, c)) {
+//             ARC.assignRef(weekIndex, gameIndex, c);
+//             refAssignments[c - 'A']++;  // Increment the count for the assigned ref
+//             if (Solve(ARC, refAssignments, weekIndex, gameIndex + 1)) {
+//                 return true;  // If further assignments are successful, return true
+//             }
+//             // Backtrack
+//             ARC.assignRef(weekIndex, gameIndex, ' ');
+//             refAssignments[c - 'A']--;  // Decrement the count for the ref
 
+//         }
+//     }
+
+//     return false;  // No valid assignment for this game
+// }
+
+bool Solve(Schedule& ARC, std::vector<int>& refAssignments, int weekIndex = 0, int gameIndex = 0) {
+    // If all weeks are processed, check if one referee has 8 assignments and the rest 7 assignments
+    if (weekIndex == 9) {
+        int countEight = 0;
+        for (int count : refAssignments) {
+            if (count < 7) return false; // Less than 7 assignments is invalid
+            if (count == 8) countEight++;
+        }
+        return countEight == 1;  // Only one referee should have 8 assignments
+    }
+
+    // If all games for this week are processed, move to the next week
+    if (gameIndex == 5) {
+        return Solve(ARC, refAssignments, weekIndex + 1, 0);
+    }
+
+    // If this game already has a ref, skip to the next game
+    if (ARC.getRef(weekIndex, gameIndex) != ' ') {
+        return Solve(ARC, refAssignments, weekIndex, gameIndex + 1);
+    }
+
+    // Try to assign each ref crew
+    for (char c = 'A'; c <= 'E'; c++) {
+        if (refAssignments[c - 'A'] >= 8) continue;  // If ref already has 8 assignments, skip to the next ref
+
+        if (ARC.isValid(weekIndex, gameIndex, c)) {
+            ARC.assignRef(weekIndex, gameIndex, c);
+            
+            // Only increment the count for games 0-3
+            if (gameIndex < 4) {
+                refAssignments[c - 'A']++;  // Increment the count for the assigned ref
+            }
+
+            if (Solve(ARC, refAssignments, weekIndex, gameIndex + 1)) {
+                return true;  // If further assignments are successful, return true
+            }
+            
+            // Backtrack
+            ARC.assignRef(weekIndex, gameIndex, ' ');
+            
+            // Only decrement the count for games 0-3
+            if (gameIndex < 4) {
+                refAssignments[c - 'A']--;  // Decrement the count for the ref
+            }
+        }
+    }
+
+    return false;  // No valid assignment for this game
+}
 
 int main() {
 
-   //initialize weeks. 9 weeks(0-8), 4 games per week(0-3)
+  //initialize weeks. 9 weeks(0-8), 4 games per week(0-3)
     std::vector<std::vector<Game>> weeks = {
-        {Game("BVU","LOR"), Game("SIM","DBQ"), Game("WAR","CEN"), Game("COE","LUT")},
-        {Game("LOR","SIM"), Game("CEN","BVU"), Game("DBQ","COE"), Game("NWU","WAR")},
-        {Game("COE","LOR"), Game("BVU","NWU"), Game("LUT","DBQ"), Game("SIM","CEN")},
-        {Game("LOR","LUT"), Game("WAR","BVU"), Game("NWU","SIM"), Game("CEN","COE")},
-        {Game("DBQ","LOR"), Game("SIM","WAR"), Game("LUT","CEN"), Game("COE","NWU")},
-        {Game("BVU","SIM"), Game("CEN","DBQ"), Game("WAR","COE"), Game("NWU","LUT")},
-        {Game("LOR","CEN"), Game("COE","BVU"), Game("DBQ","NWU"), Game("LUT","WAR")},
-        {Game("NWU","LOR"), Game("BVU","LUT"), Game("WAR","DBQ"), Game("SIM","COE")},
-        {Game("LOR","WAR"), Game("DBQ","BVU"), Game("CEN","NWU"), Game("LUT","SIM")},
+        {Game("BVU","LOR"), Game("SIM","DBQ"), Game("WAR","CEN"), Game("COE","LUT"), Game("BYE","BYE")},
+        {Game("LOR","SIM"), Game("CEN","BVU"), Game("DBQ","COE"), Game("NWU","WAR"), Game("BYE","BYE")},
+        {Game("COE","LOR"), Game("BVU","NWU"), Game("LUT","DBQ"), Game("SIM","CEN"), Game("BYE","BYE")},
+        {Game("LOR","LUT"), Game("WAR","BVU"), Game("NWU","SIM"), Game("CEN","COE"), Game("BYE","BYE")},
+        {Game("DBQ","LOR"), Game("SIM","WAR"), Game("LUT","CEN"), Game("COE","NWU"), Game("BYE","BYE")},
+        {Game("BVU","SIM"), Game("CEN","DBQ"), Game("WAR","COE"), Game("NWU","LUT"), Game("BYE","BYE")},
+        {Game("LOR","CEN"), Game("COE","BVU"), Game("DBQ","NWU"), Game("LUT","WAR"), Game("BYE","BYE")},
+        {Game("NWU","LOR"), Game("BVU","LUT"), Game("WAR","DBQ"), Game("SIM","COE"), Game("BYE","BYE")},
+        {Game("LOR","WAR"), Game("DBQ","BVU"), Game("CEN","NWU"), Game("LUT","SIM"), Game("BYE","BYE")},
         };
 
+    std::vector<int> refAssignments(5, 0);  // Initialize with 0 for all refs (A=0, B=1, C=2, D=3, E=4)
+
+
     Schedule ARC(weeks);
-    if (Solve(ARC)) {
+
+    if (Solve(ARC, refAssignments, 0, 0)){
         ARC.printSchedule();
     } else {
         std::cout << "No solution found!" << std::endl;
     }
+
     return 0;
 }
 
+// bool Solve(Schedule& ARC) {
 
+//     for (int i = 0; i < 9; i++) {
+//         for (int j = 0; j < 5; j++) {
 
+//             if (ARC.getRef(i, j) == ' ') {
+//                 for (char c = 'A'; c <= 'E'; c++) {
+//                     if (ARC.isValid(i, j, c)) {
 
-bool Solve(Schedule& ARC) {
-    for (int i = 0; i < 9; i++) {
-        for (int j = 0; j < 4; j++) {
-            if (ARC.getGame(i, j).getRefCrew() == ' ') {
-                for (char c = 'A'; c <= 'E'; c++) {
-                    if (ARC.isValid(i, j, c)) {
-                        ARC.assignRef(i, j, c);
-                        if (Solve(ARC)) {
-                            return true;
-                        }
-                        ARC.assignRef(i, j, ' ');
-                    }
-                }
-                return false;
-            }
-        }
-    }
-    return true;
-}
+//                         ARC.assignRef(i, j, c);
+
+//                         if (Solve(ARC)) {
+//                             return true;
+
+//                         } else{
+//                         ARC.assignRef(i, j, ' ');
+//                         }
+//                     } else {
+//                         ARC.assignRef(i, j, ' ');
+
+//                     }
+//                 }
+//                 return false;
+//             }
+//         }
+//     }
+//     return true;
+// }
+
 
 void Schedule::printSchedule() const {
     for (int i = 0; i < 9; i++) {
@@ -109,15 +205,9 @@ bool Schedule::isComplete() const {
 }
 
 bool Schedule::isValid(int week, int game, char refCrew) const {
-    //check if ref has NOT reffed this week and last week... return false if true
-    int counter = 0;
-    if(week > 0){
-        for(int i = 0; i<4; i++){
-            if(weeks[week-1][i].getRefCrew() == refCrew || weeks[week][i].getRefCrew()){
-                counter++;
-            }
-        }
-        if(counter == 0){
+
+    if(game == 4 && week > 0){
+        if(weeks[week-1][4].getRefCrew() == refCrew){
             return false;
         }
     }
@@ -151,22 +241,32 @@ bool Schedule::isValid(int week, int game, char refCrew) const {
         }
     }
 
-    //check if ref has seen same team more than twice
-    int count = 0;
-    for(int i = 0; i<9; i++){
-        for(int j = 0; j<4; j++){
+    // check if ref has seen same team more than twice
+    int countAwayTeam = 0;
+    int countHomeTeam = 0;
+    int assignmentCount = 0;
+    for(int i = 0; i < 9; i++){ 
+        for(int j = 0; j < 4; j++){
             if(weeks[i][j].getRefCrew() == refCrew){
-                if(weeks[i][j].getAwayTeam() == weeks[week][game].getAwayTeam() || weeks[i][j].getAwayTeam() == weeks[week][game].getHomeTeam() || weeks[i][j].getHomeTeam() == weeks[week][game].getAwayTeam() || weeks[i][j].getHomeTeam() == weeks[week][game].getHomeTeam()){
-                    count++;
+                assignmentCount++;
+                if(weeks[i][j].getAwayTeam() == weeks[week][game].getAwayTeam() || weeks[i][j].getHomeTeam() == weeks[week][game].getAwayTeam()){
+                    countAwayTeam++;
+                }
+                if(weeks[i][j].getAwayTeam() == weeks[week][game].getHomeTeam() || weeks[i][j].getHomeTeam() == weeks[week][game].getHomeTeam()){
+                    countHomeTeam++;
                 }
             }
         }
     }
-    if(count > 2){
+    if(countAwayTeam == 2 || countHomeTeam == 2){
         return false;
     }
 
+    //ref cannot exceed 8 assignments
+    if(assignmentCount == 8){
+        return false;
+    }
 
     return true;
 }
-
+        
