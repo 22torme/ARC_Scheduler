@@ -2,6 +2,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
+#include <fstream>
 
 class Game {
 public:
@@ -30,6 +31,7 @@ public:
     char getRef(int week, int game) const { return weeks[week][game].getRefCrew(); }
     bool isComplete() const;
     bool isValid(int week, int game, char refCrew) const;
+    void outputFile(std::ofstream& output) const;
 
 private:
     std::vector<std::vector<Game>> weeks;
@@ -74,25 +76,81 @@ private:
 //     return false;  // No valid assignment for this game
 // }
 
-bool Solve(Schedule& ARC, std::vector<int>& refAssignments, int weekIndex = 0, int gameIndex = 0) {
+// bool Solve(Schedule& ARC, std::vector<int>& refAssignments, int weekIndex = 0, int gameIndex = 0) {
+//     // If all weeks are processed, check if one referee has 8 assignments and the rest 7 assignments
+//     if (weekIndex == 9) {
+//         int countEight = 0;
+//         for (int count : refAssignments) {
+//             if (count < 7) return false; // Less than 7 assignments is invalid
+//             if (count == 8) countEight++;
+//         }
+//         return countEight == 1;  // Only one referee should have 8 assignments
+//     }
+
+//     // If all games for this week are processed, move to the next week
+//     if (gameIndex == 5) {
+//         return Solve(ARC, refAssignments, weekIndex + 1, 0);
+//     }
+
+//     // If this game already has a ref, skip to the next game
+//     if (ARC.getRef(weekIndex, gameIndex) != ' ') {
+//         return Solve(ARC, refAssignments, weekIndex, gameIndex + 1);
+//     }
+
+//     // Try to assign each ref crew
+//     for (char c = 'A'; c <= 'E'; c++) {
+//         if (refAssignments[c - 'A'] >= 8) continue;  // If ref already has 8 assignments, skip to the next ref
+
+//         if (ARC.isValid(weekIndex, gameIndex, c)) {
+//             ARC.assignRef(weekIndex, gameIndex, c);
+            
+//             // Only increment the count for games 0-3
+//             if (gameIndex < 4) {
+//                 refAssignments[c - 'A']++;  // Increment the count for the assigned ref
+//             }
+
+//             if (Solve(ARC, refAssignments, weekIndex, gameIndex + 1)) {
+//                 return true;  // If further assignments are successful, return true
+//             }
+            
+//             // Backtrack
+//             ARC.assignRef(weekIndex, gameIndex, ' ');
+            
+//             // Only decrement the count for games 0-3
+//             if (gameIndex < 4) {
+//                 refAssignments[c - 'A']--;  // Decrement the count for the ref
+//             }
+//         }
+//     }
+
+//     return false;  // No valid assignment for this game
+// }
+
+void Solve(Schedule& ARC, std::vector<int>& refAssignments, std::vector<Schedule>& solutions, int weekIndex = 0, int gameIndex = 0) {
     // If all weeks are processed, check if one referee has 8 assignments and the rest 7 assignments
     if (weekIndex == 9) {
         int countEight = 0;
         for (int count : refAssignments) {
-            if (count < 7) return false; // Less than 7 assignments is invalid
+            if (count < 7) return; // Less than 7 assignments is invalid
             if (count == 8) countEight++;
         }
-        return countEight == 1;  // Only one referee should have 8 assignments
+        if (countEight == 1) {  // Only one referee should have 8 assignments
+            std::cout << "Solution Found" << std::endl;
+            solutions.push_back(ARC); // Add the valid solution to our list
+        }
+        return;  // Don't return true; continue searching for other solutions
     }
 
     // If all games for this week are processed, move to the next week
     if (gameIndex == 5) {
-        return Solve(ARC, refAssignments, weekIndex + 1, 0);
+        Solve(ARC, refAssignments, solutions, weekIndex + 1, 0);
+        return;
     }
 
     // If this game already has a ref, skip to the next game
     if (ARC.getRef(weekIndex, gameIndex) != ' ') {
-        return Solve(ARC, refAssignments, weekIndex, gameIndex + 1);
+        Solve(ARC, refAssignments, solutions, weekIndex, gameIndex + 1);
+        return;
     }
 
     // Try to assign each ref crew
@@ -107,9 +165,7 @@ bool Solve(Schedule& ARC, std::vector<int>& refAssignments, int weekIndex = 0, i
                 refAssignments[c - 'A']++;  // Increment the count for the assigned ref
             }
 
-            if (Solve(ARC, refAssignments, weekIndex, gameIndex + 1)) {
-                return true;  // If further assignments are successful, return true
-            }
+            Solve(ARC, refAssignments, solutions, weekIndex, gameIndex + 1);
             
             // Backtrack
             ARC.assignRef(weekIndex, gameIndex, ' ');
@@ -120,8 +176,6 @@ bool Solve(Schedule& ARC, std::vector<int>& refAssignments, int weekIndex = 0, i
             }
         }
     }
-
-    return false;  // No valid assignment for this game
 }
 
 int main() {
@@ -140,15 +194,28 @@ int main() {
         };
 
     std::vector<int> refAssignments(5, 0);  // Initialize with 0 for all refs (A=0, B=1, C=2, D=3, E=4)
-
+    
+    std::vector<Schedule> solutions;
 
     Schedule ARC(weeks);
 
-    if (Solve(ARC, refAssignments, 0, 0)){
-        ARC.printSchedule();
-    } else {
-        std::cout << "No solution found!" << std::endl;
+
+    Solve(ARC, refAssignments, solutions);
+
+    std::cout << solutions.size() << std::endl;
+
+    std::ofstream output("Solutions.txt");
+
+    for (const Schedule& sol : solutions) {
+        sol.outputFile(output);
+        output << "------------------\n";
     }
+
+    // if (Solve(ARC, refAssignments, 0, 0)){
+    //     ARC.printSchedule();
+    // } else {
+    //     std::cout << "No solution found!" << std::endl;
+    // }
 
     return 0;
 }
@@ -270,3 +337,13 @@ bool Schedule::isValid(int week, int game, char refCrew) const {
     return true;
 }
         
+void Schedule::outputFile(std::ofstream& output) const {
+
+    for (int i = 0; i < 9; i++) {
+        output << "Week " << i + 3 << std::endl;
+        for (int j = 0; j < 4; j++) {
+            output << weeks[i][j].getAwayTeam() << " @ " << weeks[i][j].getHomeTeam() << " Refs: " << weeks[i][j].getRefCrew() << std::endl;
+        }
+        output << std::endl;
+    }
+}

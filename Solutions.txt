@@ -1,0 +1,12960 @@
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: C
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: B
+DBQ @ COE Refs: A
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: A
+NWU @ SIM Refs: B
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: D
+LUT @ CEN Refs: B
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: D
+WAR @ COE Refs: B
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: D
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: A
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: A
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: C
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: B
+DBQ @ COE Refs: C
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: A
+NWU @ SIM Refs: B
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: E
+LUT @ CEN Refs: B
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: A
+WAR @ COE Refs: D
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: E
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: D
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: E
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: C
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: B
+DBQ @ COE Refs: A
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: A
+NWU @ SIM Refs: B
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: E
+LUT @ CEN Refs: B
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: E
+WAR @ COE Refs: B
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: E
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: A
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: A
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: C
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: B
+DBQ @ COE Refs: C
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: A
+NWU @ SIM Refs: B
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: D
+LUT @ CEN Refs: B
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: A
+WAR @ COE Refs: E
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: D
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: E
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: D
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: D
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: B
+DBQ @ COE Refs: A
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: A
+NWU @ SIM Refs: B
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: C
+LUT @ CEN Refs: B
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: C
+WAR @ COE Refs: B
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: C
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: A
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: A
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: D
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: B
+DBQ @ COE Refs: D
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: A
+NWU @ SIM Refs: B
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: E
+LUT @ CEN Refs: B
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: A
+WAR @ COE Refs: C
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: E
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: C
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: E
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: D
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: B
+DBQ @ COE Refs: D
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: A
+NWU @ SIM Refs: B
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: C
+LUT @ CEN Refs: B
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: A
+WAR @ COE Refs: E
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: C
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: E
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: C
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: D
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: B
+DBQ @ COE Refs: A
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: A
+NWU @ SIM Refs: B
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: E
+LUT @ CEN Refs: B
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: E
+WAR @ COE Refs: B
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: E
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: A
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: A
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: E
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: B
+DBQ @ COE Refs: E
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: A
+NWU @ SIM Refs: B
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: D
+LUT @ CEN Refs: B
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: A
+WAR @ COE Refs: C
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: D
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: C
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: D
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: E
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: B
+DBQ @ COE Refs: A
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: A
+NWU @ SIM Refs: B
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: C
+LUT @ CEN Refs: B
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: C
+WAR @ COE Refs: B
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: C
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: A
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: A
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: E
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: B
+DBQ @ COE Refs: E
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: A
+NWU @ SIM Refs: B
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: C
+LUT @ CEN Refs: B
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: A
+WAR @ COE Refs: D
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: C
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: D
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: C
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: E
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: B
+DBQ @ COE Refs: A
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: A
+NWU @ SIM Refs: B
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: D
+LUT @ CEN Refs: B
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: D
+WAR @ COE Refs: B
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: D
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: A
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: A
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: B
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: C
+DBQ @ COE Refs: A
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: A
+NWU @ SIM Refs: C
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: D
+LUT @ CEN Refs: C
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: D
+WAR @ COE Refs: C
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: D
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: A
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: A
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: B
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: C
+DBQ @ COE Refs: B
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: A
+NWU @ SIM Refs: C
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: E
+LUT @ CEN Refs: C
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: A
+WAR @ COE Refs: D
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: E
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: D
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: E
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: B
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: C
+DBQ @ COE Refs: A
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: A
+NWU @ SIM Refs: C
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: E
+LUT @ CEN Refs: C
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: E
+WAR @ COE Refs: C
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: E
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: A
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: A
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: B
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: C
+DBQ @ COE Refs: B
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: A
+NWU @ SIM Refs: C
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: D
+LUT @ CEN Refs: C
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: A
+WAR @ COE Refs: E
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: D
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: E
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: D
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: D
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: C
+DBQ @ COE Refs: A
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: A
+NWU @ SIM Refs: C
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: B
+LUT @ CEN Refs: C
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: B
+WAR @ COE Refs: C
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: B
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: A
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: A
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: D
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: C
+DBQ @ COE Refs: D
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: A
+NWU @ SIM Refs: C
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: E
+LUT @ CEN Refs: C
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: A
+WAR @ COE Refs: B
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: E
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: B
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: E
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: D
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: C
+DBQ @ COE Refs: D
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: A
+NWU @ SIM Refs: C
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: B
+LUT @ CEN Refs: C
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: A
+WAR @ COE Refs: E
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: B
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: E
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: B
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: D
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: C
+DBQ @ COE Refs: A
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: A
+NWU @ SIM Refs: C
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: E
+LUT @ CEN Refs: C
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: E
+WAR @ COE Refs: C
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: E
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: A
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: A
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: E
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: C
+DBQ @ COE Refs: E
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: A
+NWU @ SIM Refs: C
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: D
+LUT @ CEN Refs: C
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: A
+WAR @ COE Refs: B
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: D
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: B
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: D
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: E
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: C
+DBQ @ COE Refs: A
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: A
+NWU @ SIM Refs: C
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: B
+LUT @ CEN Refs: C
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: B
+WAR @ COE Refs: C
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: B
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: A
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: A
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: E
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: C
+DBQ @ COE Refs: E
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: A
+NWU @ SIM Refs: C
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: B
+LUT @ CEN Refs: C
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: A
+WAR @ COE Refs: D
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: B
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: D
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: B
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: E
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: C
+DBQ @ COE Refs: A
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: A
+NWU @ SIM Refs: C
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: D
+LUT @ CEN Refs: C
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: D
+WAR @ COE Refs: C
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: D
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: A
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: A
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: B
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: D
+DBQ @ COE Refs: A
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: A
+NWU @ SIM Refs: D
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: C
+LUT @ CEN Refs: D
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: C
+WAR @ COE Refs: D
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: C
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: A
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: A
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: B
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: D
+DBQ @ COE Refs: B
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: A
+NWU @ SIM Refs: D
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: E
+LUT @ CEN Refs: D
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: A
+WAR @ COE Refs: C
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: E
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: C
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: E
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: B
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: D
+DBQ @ COE Refs: A
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: A
+NWU @ SIM Refs: D
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: E
+LUT @ CEN Refs: D
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: E
+WAR @ COE Refs: D
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: E
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: A
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: A
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: B
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: D
+DBQ @ COE Refs: B
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: A
+NWU @ SIM Refs: D
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: C
+LUT @ CEN Refs: D
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: A
+WAR @ COE Refs: E
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: C
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: E
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: C
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: C
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: D
+DBQ @ COE Refs: A
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: A
+NWU @ SIM Refs: D
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: B
+LUT @ CEN Refs: D
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: B
+WAR @ COE Refs: D
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: B
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: A
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: A
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: C
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: D
+DBQ @ COE Refs: C
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: A
+NWU @ SIM Refs: D
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: E
+LUT @ CEN Refs: D
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: A
+WAR @ COE Refs: B
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: E
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: B
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: E
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: C
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: D
+DBQ @ COE Refs: C
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: A
+NWU @ SIM Refs: D
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: B
+LUT @ CEN Refs: D
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: A
+WAR @ COE Refs: E
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: B
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: E
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: B
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: C
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: D
+DBQ @ COE Refs: A
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: A
+NWU @ SIM Refs: D
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: E
+LUT @ CEN Refs: D
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: E
+WAR @ COE Refs: D
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: E
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: A
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: A
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: E
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: D
+DBQ @ COE Refs: E
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: A
+NWU @ SIM Refs: D
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: C
+LUT @ CEN Refs: D
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: A
+WAR @ COE Refs: B
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: C
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: B
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: C
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: E
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: D
+DBQ @ COE Refs: A
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: A
+NWU @ SIM Refs: D
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: B
+LUT @ CEN Refs: D
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: B
+WAR @ COE Refs: D
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: B
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: A
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: A
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: E
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: D
+DBQ @ COE Refs: E
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: A
+NWU @ SIM Refs: D
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: B
+LUT @ CEN Refs: D
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: A
+WAR @ COE Refs: C
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: B
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: C
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: B
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: E
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: D
+DBQ @ COE Refs: A
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: A
+NWU @ SIM Refs: D
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: C
+LUT @ CEN Refs: D
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: C
+WAR @ COE Refs: D
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: C
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: A
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: A
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: B
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: E
+DBQ @ COE Refs: A
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: A
+NWU @ SIM Refs: E
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: C
+LUT @ CEN Refs: E
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: C
+WAR @ COE Refs: E
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: C
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: A
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: A
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: B
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: E
+DBQ @ COE Refs: B
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: A
+NWU @ SIM Refs: E
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: D
+LUT @ CEN Refs: E
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: A
+WAR @ COE Refs: C
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: D
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: C
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: D
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: B
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: E
+DBQ @ COE Refs: A
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: A
+NWU @ SIM Refs: E
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: D
+LUT @ CEN Refs: E
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: D
+WAR @ COE Refs: E
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: D
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: A
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: A
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: B
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: E
+DBQ @ COE Refs: B
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: A
+NWU @ SIM Refs: E
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: C
+LUT @ CEN Refs: E
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: A
+WAR @ COE Refs: D
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: C
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: D
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: C
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: C
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: E
+DBQ @ COE Refs: A
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: A
+NWU @ SIM Refs: E
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: B
+LUT @ CEN Refs: E
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: B
+WAR @ COE Refs: E
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: B
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: A
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: A
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: C
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: E
+DBQ @ COE Refs: C
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: A
+NWU @ SIM Refs: E
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: D
+LUT @ CEN Refs: E
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: A
+WAR @ COE Refs: B
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: D
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: B
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: D
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: C
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: E
+DBQ @ COE Refs: C
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: A
+NWU @ SIM Refs: E
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: B
+LUT @ CEN Refs: E
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: A
+WAR @ COE Refs: D
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: B
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: D
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: B
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: C
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: E
+DBQ @ COE Refs: A
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: A
+NWU @ SIM Refs: E
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: D
+LUT @ CEN Refs: E
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: D
+WAR @ COE Refs: E
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: D
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: A
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: A
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: D
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: E
+DBQ @ COE Refs: D
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: A
+NWU @ SIM Refs: E
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: C
+LUT @ CEN Refs: E
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: A
+WAR @ COE Refs: B
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: C
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: B
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: C
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: D
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: E
+DBQ @ COE Refs: A
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: A
+NWU @ SIM Refs: E
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: B
+LUT @ CEN Refs: E
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: B
+WAR @ COE Refs: E
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: B
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: A
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: A
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: D
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: E
+DBQ @ COE Refs: D
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: A
+NWU @ SIM Refs: E
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: B
+LUT @ CEN Refs: E
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: A
+WAR @ COE Refs: C
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: B
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: C
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: B
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: A
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: D
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: E
+DBQ @ COE Refs: A
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: A
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: A
+NWU @ SIM Refs: E
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: C
+LUT @ CEN Refs: E
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: C
+WAR @ COE Refs: E
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: C
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: A
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: A
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: C
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: A
+DBQ @ COE Refs: B
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: B
+NWU @ SIM Refs: A
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: D
+LUT @ CEN Refs: A
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: D
+WAR @ COE Refs: A
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: D
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: B
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: B
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: C
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: A
+DBQ @ COE Refs: C
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: B
+NWU @ SIM Refs: A
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: E
+LUT @ CEN Refs: A
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: B
+WAR @ COE Refs: D
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: E
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: D
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: E
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: C
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: A
+DBQ @ COE Refs: B
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: B
+NWU @ SIM Refs: A
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: E
+LUT @ CEN Refs: A
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: E
+WAR @ COE Refs: A
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: E
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: B
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: B
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: C
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: A
+DBQ @ COE Refs: C
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: B
+NWU @ SIM Refs: A
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: D
+LUT @ CEN Refs: A
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: B
+WAR @ COE Refs: E
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: D
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: E
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: D
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: D
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: A
+DBQ @ COE Refs: B
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: B
+NWU @ SIM Refs: A
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: C
+LUT @ CEN Refs: A
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: C
+WAR @ COE Refs: A
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: C
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: B
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: B
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: D
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: A
+DBQ @ COE Refs: D
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: B
+NWU @ SIM Refs: A
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: E
+LUT @ CEN Refs: A
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: B
+WAR @ COE Refs: C
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: E
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: C
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: E
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: D
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: A
+DBQ @ COE Refs: D
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: B
+NWU @ SIM Refs: A
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: C
+LUT @ CEN Refs: A
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: B
+WAR @ COE Refs: E
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: C
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: E
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: C
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: D
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: A
+DBQ @ COE Refs: B
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: B
+NWU @ SIM Refs: A
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: E
+LUT @ CEN Refs: A
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: E
+WAR @ COE Refs: A
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: E
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: B
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: B
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: E
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: A
+DBQ @ COE Refs: E
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: B
+NWU @ SIM Refs: A
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: D
+LUT @ CEN Refs: A
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: B
+WAR @ COE Refs: C
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: D
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: C
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: D
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: E
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: A
+DBQ @ COE Refs: B
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: B
+NWU @ SIM Refs: A
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: C
+LUT @ CEN Refs: A
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: C
+WAR @ COE Refs: A
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: C
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: B
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: B
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: E
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: A
+DBQ @ COE Refs: E
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: B
+NWU @ SIM Refs: A
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: C
+LUT @ CEN Refs: A
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: B
+WAR @ COE Refs: D
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: C
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: D
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: C
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: E
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: A
+DBQ @ COE Refs: B
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: B
+NWU @ SIM Refs: A
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: D
+LUT @ CEN Refs: A
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: D
+WAR @ COE Refs: A
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: D
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: B
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: B
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: A
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: C
+DBQ @ COE Refs: B
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: B
+NWU @ SIM Refs: C
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: D
+LUT @ CEN Refs: C
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: D
+WAR @ COE Refs: C
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: D
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: B
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: B
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: A
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: C
+DBQ @ COE Refs: A
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: B
+NWU @ SIM Refs: C
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: E
+LUT @ CEN Refs: C
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: B
+WAR @ COE Refs: D
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: E
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: D
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: E
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: A
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: C
+DBQ @ COE Refs: B
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: B
+NWU @ SIM Refs: C
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: E
+LUT @ CEN Refs: C
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: E
+WAR @ COE Refs: C
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: E
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: B
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: B
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: A
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: C
+DBQ @ COE Refs: A
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: B
+NWU @ SIM Refs: C
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: D
+LUT @ CEN Refs: C
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: B
+WAR @ COE Refs: E
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: D
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: E
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: D
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: D
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: C
+DBQ @ COE Refs: B
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: B
+NWU @ SIM Refs: C
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: A
+LUT @ CEN Refs: C
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: A
+WAR @ COE Refs: C
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: A
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: B
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: B
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: D
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: C
+DBQ @ COE Refs: D
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: B
+NWU @ SIM Refs: C
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: E
+LUT @ CEN Refs: C
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: B
+WAR @ COE Refs: A
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: E
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: A
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: E
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: D
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: C
+DBQ @ COE Refs: D
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: B
+NWU @ SIM Refs: C
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: A
+LUT @ CEN Refs: C
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: B
+WAR @ COE Refs: E
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: A
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: E
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: A
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: D
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: C
+DBQ @ COE Refs: B
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: B
+NWU @ SIM Refs: C
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: E
+LUT @ CEN Refs: C
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: E
+WAR @ COE Refs: C
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: E
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: B
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: B
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: E
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: C
+DBQ @ COE Refs: E
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: B
+NWU @ SIM Refs: C
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: D
+LUT @ CEN Refs: C
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: B
+WAR @ COE Refs: A
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: D
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: A
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: D
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: E
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: C
+DBQ @ COE Refs: B
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: B
+NWU @ SIM Refs: C
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: A
+LUT @ CEN Refs: C
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: A
+WAR @ COE Refs: C
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: A
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: B
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: B
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: E
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: C
+DBQ @ COE Refs: E
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: B
+NWU @ SIM Refs: C
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: A
+LUT @ CEN Refs: C
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: B
+WAR @ COE Refs: D
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: A
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: D
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: A
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: E
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: C
+DBQ @ COE Refs: B
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: B
+NWU @ SIM Refs: C
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: D
+LUT @ CEN Refs: C
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: D
+WAR @ COE Refs: C
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: D
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: B
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: B
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: A
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: D
+DBQ @ COE Refs: B
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: B
+NWU @ SIM Refs: D
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: C
+LUT @ CEN Refs: D
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: C
+WAR @ COE Refs: D
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: C
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: B
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: B
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: A
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: D
+DBQ @ COE Refs: A
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: B
+NWU @ SIM Refs: D
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: E
+LUT @ CEN Refs: D
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: B
+WAR @ COE Refs: C
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: E
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: C
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: E
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: A
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: D
+DBQ @ COE Refs: B
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: B
+NWU @ SIM Refs: D
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: E
+LUT @ CEN Refs: D
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: E
+WAR @ COE Refs: D
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: E
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: B
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: B
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: A
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: D
+DBQ @ COE Refs: A
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: B
+NWU @ SIM Refs: D
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: C
+LUT @ CEN Refs: D
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: B
+WAR @ COE Refs: E
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: C
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: E
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: C
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: C
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: D
+DBQ @ COE Refs: B
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: B
+NWU @ SIM Refs: D
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: A
+LUT @ CEN Refs: D
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: A
+WAR @ COE Refs: D
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: A
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: B
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: B
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: C
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: D
+DBQ @ COE Refs: C
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: B
+NWU @ SIM Refs: D
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: E
+LUT @ CEN Refs: D
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: B
+WAR @ COE Refs: A
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: E
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: A
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: E
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: C
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: D
+DBQ @ COE Refs: C
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: B
+NWU @ SIM Refs: D
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: A
+LUT @ CEN Refs: D
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: B
+WAR @ COE Refs: E
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: A
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: E
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: A
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: C
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: D
+DBQ @ COE Refs: B
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: B
+NWU @ SIM Refs: D
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: E
+LUT @ CEN Refs: D
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: E
+WAR @ COE Refs: D
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: E
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: B
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: B
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: E
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: D
+DBQ @ COE Refs: E
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: B
+NWU @ SIM Refs: D
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: C
+LUT @ CEN Refs: D
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: B
+WAR @ COE Refs: A
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: C
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: A
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: C
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: E
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: D
+DBQ @ COE Refs: B
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: B
+NWU @ SIM Refs: D
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: A
+LUT @ CEN Refs: D
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: A
+WAR @ COE Refs: D
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: A
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: B
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: B
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: E
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: D
+DBQ @ COE Refs: E
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: B
+NWU @ SIM Refs: D
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: A
+LUT @ CEN Refs: D
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: B
+WAR @ COE Refs: C
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: A
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: C
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: A
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: E
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: D
+DBQ @ COE Refs: B
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: B
+NWU @ SIM Refs: D
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: C
+LUT @ CEN Refs: D
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: C
+WAR @ COE Refs: D
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: C
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: B
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: B
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: A
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: E
+DBQ @ COE Refs: B
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: B
+NWU @ SIM Refs: E
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: C
+LUT @ CEN Refs: E
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: C
+WAR @ COE Refs: E
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: C
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: B
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: B
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: A
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: E
+DBQ @ COE Refs: A
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: B
+NWU @ SIM Refs: E
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: D
+LUT @ CEN Refs: E
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: B
+WAR @ COE Refs: C
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: D
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: C
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: D
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: A
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: E
+DBQ @ COE Refs: B
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: B
+NWU @ SIM Refs: E
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: D
+LUT @ CEN Refs: E
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: D
+WAR @ COE Refs: E
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: D
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: B
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: B
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: A
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: E
+DBQ @ COE Refs: A
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: B
+NWU @ SIM Refs: E
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: C
+LUT @ CEN Refs: E
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: B
+WAR @ COE Refs: D
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: C
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: D
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: C
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: C
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: E
+DBQ @ COE Refs: B
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: B
+NWU @ SIM Refs: E
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: A
+LUT @ CEN Refs: E
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: A
+WAR @ COE Refs: E
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: A
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: B
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: B
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: C
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: E
+DBQ @ COE Refs: C
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: B
+NWU @ SIM Refs: E
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: D
+LUT @ CEN Refs: E
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: B
+WAR @ COE Refs: A
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: D
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: A
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: D
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: C
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: E
+DBQ @ COE Refs: C
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: B
+NWU @ SIM Refs: E
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: A
+LUT @ CEN Refs: E
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: B
+WAR @ COE Refs: D
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: A
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: D
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: A
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: C
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: E
+DBQ @ COE Refs: B
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: B
+NWU @ SIM Refs: E
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: D
+LUT @ CEN Refs: E
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: D
+WAR @ COE Refs: E
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: D
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: B
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: B
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: D
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: E
+DBQ @ COE Refs: D
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: B
+NWU @ SIM Refs: E
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: C
+LUT @ CEN Refs: E
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: B
+WAR @ COE Refs: A
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: C
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: A
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: C
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: D
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: E
+DBQ @ COE Refs: B
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: B
+NWU @ SIM Refs: E
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: A
+LUT @ CEN Refs: E
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: A
+WAR @ COE Refs: E
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: A
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: B
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: B
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: D
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: E
+DBQ @ COE Refs: D
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: B
+NWU @ SIM Refs: E
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: A
+LUT @ CEN Refs: E
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: B
+WAR @ COE Refs: C
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: A
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: C
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: A
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: B
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: D
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: E
+DBQ @ COE Refs: B
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: B
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: B
+NWU @ SIM Refs: E
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: C
+LUT @ CEN Refs: E
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: C
+WAR @ COE Refs: E
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: C
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: B
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: B
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: B
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: A
+DBQ @ COE Refs: C
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: C
+NWU @ SIM Refs: A
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: D
+LUT @ CEN Refs: A
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: D
+WAR @ COE Refs: A
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: D
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: C
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: C
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: B
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: A
+DBQ @ COE Refs: B
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: C
+NWU @ SIM Refs: A
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: E
+LUT @ CEN Refs: A
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: C
+WAR @ COE Refs: D
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: E
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: D
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: E
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: B
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: A
+DBQ @ COE Refs: C
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: C
+NWU @ SIM Refs: A
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: E
+LUT @ CEN Refs: A
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: E
+WAR @ COE Refs: A
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: E
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: C
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: C
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: B
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: A
+DBQ @ COE Refs: B
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: C
+NWU @ SIM Refs: A
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: D
+LUT @ CEN Refs: A
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: C
+WAR @ COE Refs: E
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: D
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: E
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: D
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: D
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: A
+DBQ @ COE Refs: C
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: C
+NWU @ SIM Refs: A
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: B
+LUT @ CEN Refs: A
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: B
+WAR @ COE Refs: A
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: B
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: C
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: C
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: D
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: A
+DBQ @ COE Refs: D
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: C
+NWU @ SIM Refs: A
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: E
+LUT @ CEN Refs: A
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: C
+WAR @ COE Refs: B
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: E
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: B
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: E
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: D
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: A
+DBQ @ COE Refs: D
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: C
+NWU @ SIM Refs: A
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: B
+LUT @ CEN Refs: A
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: C
+WAR @ COE Refs: E
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: B
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: E
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: B
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: D
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: A
+DBQ @ COE Refs: C
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: C
+NWU @ SIM Refs: A
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: E
+LUT @ CEN Refs: A
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: E
+WAR @ COE Refs: A
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: E
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: C
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: C
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: E
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: A
+DBQ @ COE Refs: E
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: C
+NWU @ SIM Refs: A
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: D
+LUT @ CEN Refs: A
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: C
+WAR @ COE Refs: B
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: D
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: B
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: D
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: E
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: A
+DBQ @ COE Refs: C
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: C
+NWU @ SIM Refs: A
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: B
+LUT @ CEN Refs: A
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: B
+WAR @ COE Refs: A
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: B
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: C
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: C
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: E
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: A
+DBQ @ COE Refs: E
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: C
+NWU @ SIM Refs: A
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: B
+LUT @ CEN Refs: A
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: C
+WAR @ COE Refs: D
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: B
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: D
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: B
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: E
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: A
+DBQ @ COE Refs: C
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: C
+NWU @ SIM Refs: A
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: D
+LUT @ CEN Refs: A
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: D
+WAR @ COE Refs: A
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: D
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: C
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: C
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: A
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: B
+DBQ @ COE Refs: C
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: C
+NWU @ SIM Refs: B
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: D
+LUT @ CEN Refs: B
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: D
+WAR @ COE Refs: B
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: D
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: C
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: C
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: A
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: B
+DBQ @ COE Refs: A
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: C
+NWU @ SIM Refs: B
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: E
+LUT @ CEN Refs: B
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: C
+WAR @ COE Refs: D
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: E
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: D
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: E
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: A
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: B
+DBQ @ COE Refs: C
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: C
+NWU @ SIM Refs: B
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: E
+LUT @ CEN Refs: B
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: E
+WAR @ COE Refs: B
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: E
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: C
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: C
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: A
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: B
+DBQ @ COE Refs: A
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: C
+NWU @ SIM Refs: B
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: D
+LUT @ CEN Refs: B
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: C
+WAR @ COE Refs: E
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: D
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: E
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: D
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: D
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: B
+DBQ @ COE Refs: C
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: C
+NWU @ SIM Refs: B
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: A
+LUT @ CEN Refs: B
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: A
+WAR @ COE Refs: B
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: A
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: C
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: C
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: D
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: B
+DBQ @ COE Refs: D
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: C
+NWU @ SIM Refs: B
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: E
+LUT @ CEN Refs: B
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: C
+WAR @ COE Refs: A
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: E
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: A
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: E
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: D
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: B
+DBQ @ COE Refs: D
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: C
+NWU @ SIM Refs: B
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: A
+LUT @ CEN Refs: B
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: C
+WAR @ COE Refs: E
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: A
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: E
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: A
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: D
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: B
+DBQ @ COE Refs: C
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: C
+NWU @ SIM Refs: B
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: E
+LUT @ CEN Refs: B
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: E
+WAR @ COE Refs: B
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: E
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: C
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: C
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: E
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: B
+DBQ @ COE Refs: E
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: C
+NWU @ SIM Refs: B
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: D
+LUT @ CEN Refs: B
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: C
+WAR @ COE Refs: A
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: D
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: A
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: D
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: E
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: B
+DBQ @ COE Refs: C
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: C
+NWU @ SIM Refs: B
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: A
+LUT @ CEN Refs: B
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: A
+WAR @ COE Refs: B
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: A
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: C
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: C
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: E
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: B
+DBQ @ COE Refs: E
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: C
+NWU @ SIM Refs: B
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: A
+LUT @ CEN Refs: B
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: C
+WAR @ COE Refs: D
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: A
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: D
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: A
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: E
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: B
+DBQ @ COE Refs: C
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: C
+NWU @ SIM Refs: B
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: D
+LUT @ CEN Refs: B
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: D
+WAR @ COE Refs: B
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: D
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: C
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: C
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: A
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: D
+DBQ @ COE Refs: C
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: C
+NWU @ SIM Refs: D
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: B
+LUT @ CEN Refs: D
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: B
+WAR @ COE Refs: D
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: B
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: C
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: C
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: A
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: D
+DBQ @ COE Refs: A
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: C
+NWU @ SIM Refs: D
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: E
+LUT @ CEN Refs: D
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: C
+WAR @ COE Refs: B
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: E
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: B
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: E
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: A
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: D
+DBQ @ COE Refs: C
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: C
+NWU @ SIM Refs: D
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: E
+LUT @ CEN Refs: D
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: E
+WAR @ COE Refs: D
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: E
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: C
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: C
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: A
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: D
+DBQ @ COE Refs: A
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: C
+NWU @ SIM Refs: D
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: B
+LUT @ CEN Refs: D
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: C
+WAR @ COE Refs: E
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: B
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: E
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: B
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: B
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: D
+DBQ @ COE Refs: C
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: C
+NWU @ SIM Refs: D
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: A
+LUT @ CEN Refs: D
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: A
+WAR @ COE Refs: D
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: A
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: C
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: C
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: B
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: D
+DBQ @ COE Refs: B
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: C
+NWU @ SIM Refs: D
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: E
+LUT @ CEN Refs: D
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: C
+WAR @ COE Refs: A
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: E
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: A
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: E
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: B
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: D
+DBQ @ COE Refs: B
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: C
+NWU @ SIM Refs: D
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: A
+LUT @ CEN Refs: D
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: C
+WAR @ COE Refs: E
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: A
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: E
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: A
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: B
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: D
+DBQ @ COE Refs: C
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: C
+NWU @ SIM Refs: D
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: E
+LUT @ CEN Refs: D
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: E
+WAR @ COE Refs: D
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: E
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: C
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: C
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: E
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: D
+DBQ @ COE Refs: E
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: C
+NWU @ SIM Refs: D
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: B
+LUT @ CEN Refs: D
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: C
+WAR @ COE Refs: A
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: B
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: A
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: B
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: E
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: D
+DBQ @ COE Refs: C
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: C
+NWU @ SIM Refs: D
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: A
+LUT @ CEN Refs: D
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: A
+WAR @ COE Refs: D
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: A
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: C
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: C
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: E
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: D
+DBQ @ COE Refs: E
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: C
+NWU @ SIM Refs: D
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: A
+LUT @ CEN Refs: D
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: C
+WAR @ COE Refs: B
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: A
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: B
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: A
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: E
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: D
+DBQ @ COE Refs: C
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: C
+NWU @ SIM Refs: D
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: B
+LUT @ CEN Refs: D
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: B
+WAR @ COE Refs: D
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: B
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: C
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: C
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: A
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: E
+DBQ @ COE Refs: C
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: C
+NWU @ SIM Refs: E
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: B
+LUT @ CEN Refs: E
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: B
+WAR @ COE Refs: E
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: B
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: C
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: C
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: A
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: E
+DBQ @ COE Refs: A
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: C
+NWU @ SIM Refs: E
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: D
+LUT @ CEN Refs: E
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: C
+WAR @ COE Refs: B
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: D
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: B
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: D
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: A
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: E
+DBQ @ COE Refs: C
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: C
+NWU @ SIM Refs: E
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: D
+LUT @ CEN Refs: E
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: D
+WAR @ COE Refs: E
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: D
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: C
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: C
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: A
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: E
+DBQ @ COE Refs: A
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: C
+NWU @ SIM Refs: E
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: B
+LUT @ CEN Refs: E
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: C
+WAR @ COE Refs: D
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: B
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: D
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: B
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: B
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: E
+DBQ @ COE Refs: C
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: C
+NWU @ SIM Refs: E
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: A
+LUT @ CEN Refs: E
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: A
+WAR @ COE Refs: E
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: A
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: C
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: C
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: B
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: E
+DBQ @ COE Refs: B
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: C
+NWU @ SIM Refs: E
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: D
+LUT @ CEN Refs: E
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: C
+WAR @ COE Refs: A
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: D
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: A
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: D
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: B
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: E
+DBQ @ COE Refs: B
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: C
+NWU @ SIM Refs: E
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: A
+LUT @ CEN Refs: E
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: C
+WAR @ COE Refs: D
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: A
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: D
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: A
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: B
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: E
+DBQ @ COE Refs: C
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: C
+NWU @ SIM Refs: E
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: D
+LUT @ CEN Refs: E
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: D
+WAR @ COE Refs: E
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: D
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: C
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: C
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: D
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: E
+DBQ @ COE Refs: D
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: C
+NWU @ SIM Refs: E
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: B
+LUT @ CEN Refs: E
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: C
+WAR @ COE Refs: A
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: B
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: A
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: B
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: D
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: E
+DBQ @ COE Refs: C
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: C
+NWU @ SIM Refs: E
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: A
+LUT @ CEN Refs: E
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: A
+WAR @ COE Refs: E
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: A
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: C
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: C
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: D
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: E
+DBQ @ COE Refs: D
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: C
+NWU @ SIM Refs: E
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: A
+LUT @ CEN Refs: E
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: C
+WAR @ COE Refs: B
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: A
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: B
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: A
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: C
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: D
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: E
+DBQ @ COE Refs: C
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: C
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: C
+NWU @ SIM Refs: E
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: B
+LUT @ CEN Refs: E
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: B
+WAR @ COE Refs: E
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: B
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: C
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: C
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: B
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: A
+DBQ @ COE Refs: D
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: D
+NWU @ SIM Refs: A
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: C
+LUT @ CEN Refs: A
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: C
+WAR @ COE Refs: A
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: C
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: D
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: D
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: B
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: A
+DBQ @ COE Refs: B
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: D
+NWU @ SIM Refs: A
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: E
+LUT @ CEN Refs: A
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: D
+WAR @ COE Refs: C
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: E
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: C
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: E
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: B
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: A
+DBQ @ COE Refs: D
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: D
+NWU @ SIM Refs: A
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: E
+LUT @ CEN Refs: A
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: E
+WAR @ COE Refs: A
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: E
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: D
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: D
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: B
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: A
+DBQ @ COE Refs: B
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: D
+NWU @ SIM Refs: A
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: C
+LUT @ CEN Refs: A
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: D
+WAR @ COE Refs: E
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: C
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: E
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: C
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: C
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: A
+DBQ @ COE Refs: D
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: D
+NWU @ SIM Refs: A
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: B
+LUT @ CEN Refs: A
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: B
+WAR @ COE Refs: A
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: B
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: D
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: D
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: C
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: A
+DBQ @ COE Refs: C
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: D
+NWU @ SIM Refs: A
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: E
+LUT @ CEN Refs: A
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: D
+WAR @ COE Refs: B
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: E
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: B
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: E
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: C
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: A
+DBQ @ COE Refs: C
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: D
+NWU @ SIM Refs: A
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: B
+LUT @ CEN Refs: A
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: D
+WAR @ COE Refs: E
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: B
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: E
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: B
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: C
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: A
+DBQ @ COE Refs: D
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: D
+NWU @ SIM Refs: A
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: E
+LUT @ CEN Refs: A
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: E
+WAR @ COE Refs: A
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: E
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: D
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: D
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: E
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: A
+DBQ @ COE Refs: E
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: D
+NWU @ SIM Refs: A
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: C
+LUT @ CEN Refs: A
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: D
+WAR @ COE Refs: B
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: C
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: B
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: C
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: E
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: A
+DBQ @ COE Refs: D
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: D
+NWU @ SIM Refs: A
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: B
+LUT @ CEN Refs: A
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: B
+WAR @ COE Refs: A
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: B
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: D
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: D
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: E
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: A
+DBQ @ COE Refs: E
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: D
+NWU @ SIM Refs: A
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: B
+LUT @ CEN Refs: A
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: D
+WAR @ COE Refs: C
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: B
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: C
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: B
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: E
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: A
+DBQ @ COE Refs: D
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: D
+NWU @ SIM Refs: A
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: C
+LUT @ CEN Refs: A
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: C
+WAR @ COE Refs: A
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: C
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: D
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: D
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: A
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: B
+DBQ @ COE Refs: D
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: D
+NWU @ SIM Refs: B
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: C
+LUT @ CEN Refs: B
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: C
+WAR @ COE Refs: B
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: C
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: D
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: D
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: A
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: B
+DBQ @ COE Refs: A
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: D
+NWU @ SIM Refs: B
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: E
+LUT @ CEN Refs: B
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: D
+WAR @ COE Refs: C
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: E
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: C
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: E
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: A
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: B
+DBQ @ COE Refs: D
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: D
+NWU @ SIM Refs: B
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: E
+LUT @ CEN Refs: B
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: E
+WAR @ COE Refs: B
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: E
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: D
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: D
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: A
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: B
+DBQ @ COE Refs: A
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: D
+NWU @ SIM Refs: B
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: C
+LUT @ CEN Refs: B
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: D
+WAR @ COE Refs: E
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: C
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: E
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: C
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: C
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: B
+DBQ @ COE Refs: D
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: D
+NWU @ SIM Refs: B
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: A
+LUT @ CEN Refs: B
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: A
+WAR @ COE Refs: B
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: A
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: D
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: D
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: C
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: B
+DBQ @ COE Refs: C
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: D
+NWU @ SIM Refs: B
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: E
+LUT @ CEN Refs: B
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: D
+WAR @ COE Refs: A
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: E
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: A
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: E
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: C
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: B
+DBQ @ COE Refs: C
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: D
+NWU @ SIM Refs: B
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: A
+LUT @ CEN Refs: B
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: D
+WAR @ COE Refs: E
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: A
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: E
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: A
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: C
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: B
+DBQ @ COE Refs: D
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: D
+NWU @ SIM Refs: B
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: E
+LUT @ CEN Refs: B
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: E
+WAR @ COE Refs: B
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: E
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: D
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: D
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: E
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: B
+DBQ @ COE Refs: E
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: D
+NWU @ SIM Refs: B
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: C
+LUT @ CEN Refs: B
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: D
+WAR @ COE Refs: A
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: C
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: A
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: C
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: E
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: B
+DBQ @ COE Refs: D
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: D
+NWU @ SIM Refs: B
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: A
+LUT @ CEN Refs: B
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: A
+WAR @ COE Refs: B
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: A
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: D
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: D
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: E
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: B
+DBQ @ COE Refs: E
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: D
+NWU @ SIM Refs: B
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: A
+LUT @ CEN Refs: B
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: D
+WAR @ COE Refs: C
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: A
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: C
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: A
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: E
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: B
+DBQ @ COE Refs: D
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: D
+NWU @ SIM Refs: B
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: C
+LUT @ CEN Refs: B
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: C
+WAR @ COE Refs: B
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: C
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: D
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: D
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: A
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: C
+DBQ @ COE Refs: D
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: D
+NWU @ SIM Refs: C
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: B
+LUT @ CEN Refs: C
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: B
+WAR @ COE Refs: C
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: B
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: D
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: D
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: A
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: C
+DBQ @ COE Refs: A
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: D
+NWU @ SIM Refs: C
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: E
+LUT @ CEN Refs: C
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: D
+WAR @ COE Refs: B
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: E
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: B
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: E
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: A
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: C
+DBQ @ COE Refs: D
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: D
+NWU @ SIM Refs: C
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: E
+LUT @ CEN Refs: C
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: E
+WAR @ COE Refs: C
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: E
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: D
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: D
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: A
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: C
+DBQ @ COE Refs: A
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: D
+NWU @ SIM Refs: C
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: B
+LUT @ CEN Refs: C
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: D
+WAR @ COE Refs: E
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: B
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: E
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: B
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: B
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: C
+DBQ @ COE Refs: D
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: D
+NWU @ SIM Refs: C
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: A
+LUT @ CEN Refs: C
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: A
+WAR @ COE Refs: C
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: A
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: D
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: D
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: B
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: C
+DBQ @ COE Refs: B
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: E
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: D
+NWU @ SIM Refs: C
+CEN @ COE Refs: E
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: E
+LUT @ CEN Refs: C
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: D
+WAR @ COE Refs: A
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: E
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: A
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: E
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: B
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: C
+DBQ @ COE Refs: B
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: D
+NWU @ SIM Refs: C
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: E
+SIM @ WAR Refs: A
+LUT @ CEN Refs: C
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: D
+WAR @ COE Refs: E
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: E
+COE @ BVU Refs: A
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: E
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: A
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: B
+COE @ LUT Refs: E
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: C
+DBQ @ COE Refs: D
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: E
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: D
+NWU @ SIM Refs: C
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: E
+LUT @ CEN Refs: C
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: E
+WAR @ COE Refs: C
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: E
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: D
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: D
+LUT @ SIM Refs: E
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: E
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: C
+DBQ @ COE Refs: E
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: D
+NWU @ SIM Refs: C
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: B
+LUT @ CEN Refs: C
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: D
+WAR @ COE Refs: A
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: B
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: A
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: B
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: E
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: C
+DBQ @ COE Refs: D
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: D
+NWU @ SIM Refs: C
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: A
+LUT @ CEN Refs: C
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: A
+WAR @ COE Refs: C
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: A
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: D
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: D
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: E
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: C
+DBQ @ COE Refs: E
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: D
+NWU @ SIM Refs: C
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: A
+LUT @ CEN Refs: C
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: E
+CEN @ DBQ Refs: D
+WAR @ COE Refs: B
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: A
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: E
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: B
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: A
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: E
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: E
+CEN @ BVU Refs: C
+DBQ @ COE Refs: D
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: E
+WAR @ BVU Refs: D
+NWU @ SIM Refs: C
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: B
+LUT @ CEN Refs: C
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: B
+WAR @ COE Refs: C
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: B
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: E
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: D
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: E
+CEN @ NWU Refs: D
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: A
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: E
+DBQ @ COE Refs: D
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: D
+NWU @ SIM Refs: E
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: B
+LUT @ CEN Refs: E
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: B
+WAR @ COE Refs: E
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: B
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: D
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: D
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: A
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: E
+DBQ @ COE Refs: A
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: D
+NWU @ SIM Refs: E
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: C
+LUT @ CEN Refs: E
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: D
+WAR @ COE Refs: B
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: C
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: B
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: C
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: A
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: E
+DBQ @ COE Refs: D
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: D
+NWU @ SIM Refs: E
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: C
+LUT @ CEN Refs: E
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: C
+WAR @ COE Refs: E
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: C
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: D
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: D
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: A
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: E
+DBQ @ COE Refs: A
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: D
+NWU @ SIM Refs: E
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: B
+LUT @ CEN Refs: E
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: D
+WAR @ COE Refs: C
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: B
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: C
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: B
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: B
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: E
+DBQ @ COE Refs: D
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: D
+NWU @ SIM Refs: E
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: A
+LUT @ CEN Refs: E
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: A
+WAR @ COE Refs: E
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: A
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: D
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: D
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: B
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: E
+DBQ @ COE Refs: B
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: D
+NWU @ SIM Refs: E
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: C
+LUT @ CEN Refs: E
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: D
+WAR @ COE Refs: A
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: C
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: A
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: C
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: B
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: E
+DBQ @ COE Refs: B
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: D
+NWU @ SIM Refs: E
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: A
+LUT @ CEN Refs: E
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: D
+WAR @ COE Refs: C
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: A
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: C
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: A
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: B
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: E
+DBQ @ COE Refs: D
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: D
+NWU @ SIM Refs: E
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: C
+LUT @ CEN Refs: E
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: C
+WAR @ COE Refs: E
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: C
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: D
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: D
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: C
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: E
+DBQ @ COE Refs: C
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: D
+NWU @ SIM Refs: E
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: B
+LUT @ CEN Refs: E
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: D
+WAR @ COE Refs: A
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: B
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: A
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: B
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: C
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: E
+DBQ @ COE Refs: D
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: D
+NWU @ SIM Refs: E
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: A
+LUT @ CEN Refs: E
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: A
+WAR @ COE Refs: E
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: A
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: D
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: D
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: C
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: E
+DBQ @ COE Refs: C
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: D
+NWU @ SIM Refs: E
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: A
+LUT @ CEN Refs: E
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: D
+WAR @ COE Refs: B
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: A
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: E
+WAR @ DBQ Refs: B
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: A
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: D
+SIM @ DBQ Refs: E
+WAR @ CEN Refs: C
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: E
+DBQ @ COE Refs: D
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: E
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: D
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: D
+NWU @ SIM Refs: E
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: B
+LUT @ CEN Refs: E
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: B
+WAR @ COE Refs: E
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: B
+DBQ @ NWU Refs: E
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: D
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: E
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: D
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: B
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: A
+DBQ @ COE Refs: E
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: E
+NWU @ SIM Refs: A
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: C
+LUT @ CEN Refs: A
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: C
+WAR @ COE Refs: A
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: C
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: E
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: E
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: B
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: A
+DBQ @ COE Refs: B
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: E
+NWU @ SIM Refs: A
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: D
+LUT @ CEN Refs: A
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: E
+WAR @ COE Refs: C
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: D
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: C
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: D
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: B
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: A
+DBQ @ COE Refs: E
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: E
+NWU @ SIM Refs: A
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: D
+LUT @ CEN Refs: A
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: D
+WAR @ COE Refs: A
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: D
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: E
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: E
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: B
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: A
+DBQ @ COE Refs: B
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: E
+NWU @ SIM Refs: A
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: C
+LUT @ CEN Refs: A
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: E
+WAR @ COE Refs: D
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: C
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: D
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: C
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: C
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: A
+DBQ @ COE Refs: E
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: E
+NWU @ SIM Refs: A
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: B
+LUT @ CEN Refs: A
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: B
+WAR @ COE Refs: A
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: B
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: E
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: E
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: C
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: A
+DBQ @ COE Refs: C
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: E
+NWU @ SIM Refs: A
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: D
+LUT @ CEN Refs: A
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: E
+WAR @ COE Refs: B
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: D
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: B
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: D
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: C
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: A
+DBQ @ COE Refs: C
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: E
+NWU @ SIM Refs: A
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: B
+LUT @ CEN Refs: A
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: E
+WAR @ COE Refs: D
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: B
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: D
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: B
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: C
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: A
+DBQ @ COE Refs: E
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: E
+NWU @ SIM Refs: A
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: D
+LUT @ CEN Refs: A
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: D
+WAR @ COE Refs: A
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: D
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: E
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: E
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: D
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: A
+DBQ @ COE Refs: D
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: E
+NWU @ SIM Refs: A
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: C
+LUT @ CEN Refs: A
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: E
+WAR @ COE Refs: B
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: C
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: B
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: C
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: D
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: A
+DBQ @ COE Refs: E
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: E
+NWU @ SIM Refs: A
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: B
+LUT @ CEN Refs: A
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: B
+WAR @ COE Refs: A
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: B
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: E
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: E
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: D
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: A
+DBQ @ COE Refs: D
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: E
+NWU @ SIM Refs: A
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: B
+LUT @ CEN Refs: A
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: E
+WAR @ COE Refs: C
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: B
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: C
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: B
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: A
+WAR @ CEN Refs: D
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: A
+DBQ @ COE Refs: E
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: A
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: E
+NWU @ SIM Refs: A
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: C
+LUT @ CEN Refs: A
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: C
+WAR @ COE Refs: A
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: C
+DBQ @ NWU Refs: A
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: E
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: A
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: E
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: A
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: B
+DBQ @ COE Refs: E
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: E
+NWU @ SIM Refs: B
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: C
+LUT @ CEN Refs: B
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: C
+WAR @ COE Refs: B
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: C
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: E
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: E
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: A
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: B
+DBQ @ COE Refs: A
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: E
+NWU @ SIM Refs: B
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: D
+LUT @ CEN Refs: B
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: E
+WAR @ COE Refs: C
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: D
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: C
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: D
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: A
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: B
+DBQ @ COE Refs: E
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: E
+NWU @ SIM Refs: B
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: D
+LUT @ CEN Refs: B
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: D
+WAR @ COE Refs: B
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: D
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: E
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: E
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: A
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: B
+DBQ @ COE Refs: A
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: E
+NWU @ SIM Refs: B
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: C
+LUT @ CEN Refs: B
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: E
+WAR @ COE Refs: D
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: C
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: D
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: C
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: C
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: B
+DBQ @ COE Refs: E
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: E
+NWU @ SIM Refs: B
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: A
+LUT @ CEN Refs: B
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: A
+WAR @ COE Refs: B
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: A
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: E
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: E
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: C
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: B
+DBQ @ COE Refs: C
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: E
+NWU @ SIM Refs: B
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: D
+LUT @ CEN Refs: B
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: E
+WAR @ COE Refs: A
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: D
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: A
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: D
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: C
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: B
+DBQ @ COE Refs: C
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: E
+NWU @ SIM Refs: B
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: A
+LUT @ CEN Refs: B
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: E
+WAR @ COE Refs: D
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: A
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: D
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: A
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: C
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: B
+DBQ @ COE Refs: E
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: E
+NWU @ SIM Refs: B
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: D
+LUT @ CEN Refs: B
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: D
+WAR @ COE Refs: B
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: D
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: E
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: E
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: D
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: B
+DBQ @ COE Refs: D
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: E
+NWU @ SIM Refs: B
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: C
+LUT @ CEN Refs: B
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: E
+WAR @ COE Refs: A
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: C
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: A
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: C
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: D
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: B
+DBQ @ COE Refs: E
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: E
+NWU @ SIM Refs: B
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: A
+LUT @ CEN Refs: B
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: A
+WAR @ COE Refs: B
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: A
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: E
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: E
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: D
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: B
+DBQ @ COE Refs: D
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: E
+NWU @ SIM Refs: B
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: A
+LUT @ CEN Refs: B
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: E
+WAR @ COE Refs: C
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: A
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: C
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: A
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: B
+WAR @ CEN Refs: D
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: B
+DBQ @ COE Refs: E
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: B
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: E
+NWU @ SIM Refs: B
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: C
+LUT @ CEN Refs: B
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: C
+WAR @ COE Refs: B
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: C
+DBQ @ NWU Refs: B
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: E
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: B
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: E
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: A
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: C
+DBQ @ COE Refs: E
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: E
+NWU @ SIM Refs: C
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: B
+LUT @ CEN Refs: C
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: B
+WAR @ COE Refs: C
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: B
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: E
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: E
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: A
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: C
+DBQ @ COE Refs: A
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: E
+NWU @ SIM Refs: C
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: D
+LUT @ CEN Refs: C
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: E
+WAR @ COE Refs: B
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: D
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: B
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: D
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: A
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: C
+DBQ @ COE Refs: E
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: E
+NWU @ SIM Refs: C
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: D
+LUT @ CEN Refs: C
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: D
+WAR @ COE Refs: C
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: D
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: E
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: E
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: A
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: C
+DBQ @ COE Refs: A
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: E
+NWU @ SIM Refs: C
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: B
+LUT @ CEN Refs: C
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: E
+WAR @ COE Refs: D
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: B
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: D
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: B
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: B
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: C
+DBQ @ COE Refs: E
+NWU @ WAR Refs: D
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: E
+NWU @ SIM Refs: C
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: A
+LUT @ CEN Refs: C
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: A
+WAR @ COE Refs: C
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: A
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: E
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: E
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: B
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: C
+DBQ @ COE Refs: B
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: D
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: E
+NWU @ SIM Refs: C
+CEN @ COE Refs: D
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: D
+LUT @ CEN Refs: C
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: E
+WAR @ COE Refs: A
+NWU @ LUT Refs: D
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: D
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: A
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: D
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: B
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: C
+DBQ @ COE Refs: B
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: E
+NWU @ SIM Refs: C
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: D
+SIM @ WAR Refs: A
+LUT @ CEN Refs: C
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: E
+WAR @ COE Refs: D
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: D
+COE @ BVU Refs: A
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: D
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: A
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: B
+COE @ LUT Refs: D
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: C
+DBQ @ COE Refs: E
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: D
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: E
+NWU @ SIM Refs: C
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: D
+LUT @ CEN Refs: C
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: D
+WAR @ COE Refs: C
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: D
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: E
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: E
+LUT @ SIM Refs: D
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: D
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: C
+DBQ @ COE Refs: D
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: E
+NWU @ SIM Refs: C
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: B
+LUT @ CEN Refs: C
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: E
+WAR @ COE Refs: A
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: B
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: A
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: B
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: D
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: C
+DBQ @ COE Refs: E
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: E
+NWU @ SIM Refs: C
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: A
+LUT @ CEN Refs: C
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: A
+WAR @ COE Refs: C
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: A
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: E
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: E
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: D
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: C
+DBQ @ COE Refs: D
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: E
+NWU @ SIM Refs: C
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: A
+LUT @ CEN Refs: C
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: D
+CEN @ DBQ Refs: E
+WAR @ COE Refs: B
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: A
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: D
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: B
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: A
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: C
+WAR @ CEN Refs: D
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: D
+CEN @ BVU Refs: C
+DBQ @ COE Refs: E
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: C
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: D
+WAR @ BVU Refs: E
+NWU @ SIM Refs: C
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: B
+LUT @ CEN Refs: C
+COE @ NWU Refs: D
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: B
+WAR @ COE Refs: C
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: B
+DBQ @ NWU Refs: C
+LUT @ WAR Refs: D
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: E
+SIM @ COE Refs: D
+
+Week 11
+LOR @ WAR Refs: C
+DBQ @ BVU Refs: D
+CEN @ NWU Refs: E
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: A
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: D
+DBQ @ COE Refs: E
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: E
+NWU @ SIM Refs: D
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: B
+LUT @ CEN Refs: D
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: B
+WAR @ COE Refs: D
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: B
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: E
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: E
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: A
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: D
+DBQ @ COE Refs: A
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: E
+NWU @ SIM Refs: D
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: C
+LUT @ CEN Refs: D
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: E
+WAR @ COE Refs: B
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: C
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: B
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: C
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: A
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: D
+DBQ @ COE Refs: E
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: E
+NWU @ SIM Refs: D
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: C
+LUT @ CEN Refs: D
+COE @ NWU Refs: A
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: C
+WAR @ COE Refs: D
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: C
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: E
+SIM @ COE Refs: A
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: E
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: A
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: D
+DBQ @ COE Refs: A
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: A
+WAR @ BVU Refs: E
+NWU @ SIM Refs: D
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: B
+LUT @ CEN Refs: D
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: E
+WAR @ COE Refs: C
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: B
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: A
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: C
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: A
+CEN @ NWU Refs: B
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: B
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: D
+DBQ @ COE Refs: E
+NWU @ WAR Refs: C
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: E
+NWU @ SIM Refs: D
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: A
+LUT @ CEN Refs: D
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: A
+WAR @ COE Refs: D
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: A
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: C
+WAR @ DBQ Refs: E
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: E
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: B
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: D
+DBQ @ COE Refs: B
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: C
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: E
+NWU @ SIM Refs: D
+CEN @ COE Refs: C
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: C
+LUT @ CEN Refs: D
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: E
+WAR @ COE Refs: A
+NWU @ LUT Refs: C
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: C
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: A
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: C
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: B
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: D
+DBQ @ COE Refs: B
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: E
+NWU @ SIM Refs: D
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: C
+SIM @ WAR Refs: A
+LUT @ CEN Refs: D
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: E
+WAR @ COE Refs: C
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: C
+COE @ BVU Refs: A
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: C
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: A
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: B
+COE @ LUT Refs: C
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: D
+DBQ @ COE Refs: E
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: C
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: B
+WAR @ BVU Refs: E
+NWU @ SIM Refs: D
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: C
+LUT @ CEN Refs: D
+COE @ NWU Refs: B
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: C
+WAR @ COE Refs: D
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: C
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: B
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: E
+SIM @ COE Refs: B
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: B
+CEN @ NWU Refs: E
+LUT @ SIM Refs: C
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: C
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: B
+CEN @ BVU Refs: D
+DBQ @ COE Refs: C
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: E
+NWU @ SIM Refs: D
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: B
+LUT @ CEN Refs: D
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: E
+WAR @ COE Refs: A
+NWU @ LUT Refs: B
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: B
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: A
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: B
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: C
+COE @ LUT Refs: A
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: D
+DBQ @ COE Refs: E
+NWU @ WAR Refs: B
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: A
+LUT @ DBQ Refs: B
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: E
+NWU @ SIM Refs: D
+CEN @ COE Refs: B
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: A
+LUT @ CEN Refs: D
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: B
+CEN @ DBQ Refs: A
+WAR @ COE Refs: D
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: A
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: A
+BVU @ LUT Refs: B
+WAR @ DBQ Refs: E
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: E
+LUT @ SIM Refs: A
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: C
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: A
+CEN @ BVU Refs: D
+DBQ @ COE Refs: C
+NWU @ WAR Refs: E
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: E
+NWU @ SIM Refs: D
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: B
+SIM @ WAR Refs: A
+LUT @ CEN Refs: D
+COE @ NWU Refs: E
+
+Week 8
+BVU @ SIM Refs: C
+CEN @ DBQ Refs: E
+WAR @ COE Refs: B
+NWU @ LUT Refs: A
+
+Week 9
+LOR @ CEN Refs: B
+COE @ BVU Refs: A
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: C
+BVU @ LUT Refs: D
+WAR @ DBQ Refs: B
+SIM @ COE Refs: E
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: A
+LUT @ SIM Refs: B
+
+Week 3
+BVU @ LOR Refs: E
+SIM @ DBQ Refs: D
+WAR @ CEN Refs: C
+COE @ LUT Refs: B
+
+Week 4
+LOR @ SIM Refs: C
+CEN @ BVU Refs: D
+DBQ @ COE Refs: E
+NWU @ WAR Refs: A
+
+Week 5
+COE @ LOR Refs: D
+BVU @ NWU Refs: B
+LUT @ DBQ Refs: A
+SIM @ CEN Refs: E
+
+Week 6
+LOR @ LUT Refs: C
+WAR @ BVU Refs: E
+NWU @ SIM Refs: D
+CEN @ COE Refs: A
+
+Week 7
+DBQ @ LOR Refs: A
+SIM @ WAR Refs: B
+LUT @ CEN Refs: D
+COE @ NWU Refs: C
+
+Week 8
+BVU @ SIM Refs: A
+CEN @ DBQ Refs: B
+WAR @ COE Refs: D
+NWU @ LUT Refs: E
+
+Week 9
+LOR @ CEN Refs: A
+COE @ BVU Refs: B
+DBQ @ NWU Refs: D
+LUT @ WAR Refs: C
+
+Week 10
+NWU @ LOR Refs: B
+BVU @ LUT Refs: A
+WAR @ DBQ Refs: E
+SIM @ COE Refs: C
+
+Week 11
+LOR @ WAR Refs: D
+DBQ @ BVU Refs: C
+CEN @ NWU Refs: E
+LUT @ SIM Refs: B
+
