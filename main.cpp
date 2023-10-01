@@ -202,9 +202,10 @@ int main() {
 
     Solve(ARC, refAssignments, solutions);
 
-    std::cout << solutions.size() << std::endl;
-
     std::ofstream output("Solutions.txt");
+
+    output << "Number of solutions: " << solutions.size() << std::endl;
+ 
 
     for (const Schedule& sol : solutions) {
         sol.outputFile(output);

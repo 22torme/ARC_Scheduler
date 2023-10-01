@@ -1,3 +1,4 @@
+Number of solutions: 240
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: B
@@ -52,6 +53,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: A
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: B
@@ -106,6 +108,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: E
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: B
@@ -160,6 +163,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: A
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: B
@@ -214,6 +218,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: D
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: B
@@ -268,6 +273,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: A
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: B
@@ -322,6 +328,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: E
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: B
@@ -376,6 +383,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: C
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: B
@@ -430,6 +438,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: A
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: B
@@ -484,6 +493,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: D
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: B
@@ -538,6 +548,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: A
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: B
@@ -592,6 +603,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: C
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: B
@@ -646,6 +658,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: A
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: C
@@ -700,6 +713,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: A
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: C
@@ -754,6 +768,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: E
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: C
@@ -808,6 +823,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: A
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: C
@@ -862,6 +878,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: D
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: C
@@ -916,6 +933,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: A
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: C
@@ -970,6 +988,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: E
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: C
@@ -1024,6 +1043,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: B
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: C
@@ -1078,6 +1098,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: A
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: C
@@ -1132,6 +1153,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: D
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: C
@@ -1186,6 +1208,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: A
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: C
@@ -1240,6 +1263,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: B
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: C
@@ -1294,6 +1318,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: A
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: D
@@ -1348,6 +1373,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: A
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: D
@@ -1402,6 +1428,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: E
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: D
@@ -1456,6 +1483,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: A
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: D
@@ -1510,6 +1538,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: C
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: D
@@ -1564,6 +1593,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: A
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: D
@@ -1618,6 +1648,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: E
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: D
@@ -1672,6 +1703,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: B
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: D
@@ -1726,6 +1758,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: A
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: D
@@ -1780,6 +1813,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: C
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: D
@@ -1834,6 +1868,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: A
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: D
@@ -1888,6 +1923,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: B
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: D
@@ -1942,6 +1978,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: A
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: E
@@ -1996,6 +2033,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: A
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: E
@@ -2050,6 +2088,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: D
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: E
@@ -2104,6 +2143,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: A
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: E
@@ -2158,6 +2198,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: C
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: E
@@ -2212,6 +2253,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: A
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: E
@@ -2266,6 +2308,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: D
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: E
@@ -2320,6 +2363,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: B
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: E
@@ -2374,6 +2418,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: A
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: E
@@ -2428,6 +2473,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: C
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: E
@@ -2482,6 +2528,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: A
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: E
@@ -2536,6 +2583,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: B
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: A
 SIM @ DBQ Refs: E
@@ -2590,6 +2638,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: A
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: A
@@ -2644,6 +2693,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: B
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: A
@@ -2698,6 +2748,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: E
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: A
@@ -2752,6 +2803,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: B
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: A
@@ -2806,6 +2858,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: D
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: A
@@ -2860,6 +2913,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: B
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: A
@@ -2914,6 +2968,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: E
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: A
@@ -2968,6 +3023,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: C
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: A
@@ -3022,6 +3078,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: B
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: A
@@ -3076,6 +3133,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: D
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: A
@@ -3130,6 +3188,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: B
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: A
@@ -3184,6 +3243,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: C
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: A
@@ -3238,6 +3298,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: B
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: C
@@ -3292,6 +3353,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: B
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: C
@@ -3346,6 +3408,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: E
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: C
@@ -3400,6 +3463,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: B
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: C
@@ -3454,6 +3518,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: D
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: C
@@ -3508,6 +3573,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: B
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: C
@@ -3562,6 +3628,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: E
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: C
@@ -3616,6 +3683,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: A
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: C
@@ -3670,6 +3738,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: B
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: C
@@ -3724,6 +3793,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: D
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: C
@@ -3778,6 +3848,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: B
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: C
@@ -3832,6 +3903,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: A
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: C
@@ -3886,6 +3958,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: B
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: D
@@ -3940,6 +4013,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: B
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: D
@@ -3994,6 +4068,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: E
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: D
@@ -4048,6 +4123,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: B
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: D
@@ -4102,6 +4178,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: C
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: D
@@ -4156,6 +4233,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: B
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: D
@@ -4210,6 +4288,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: E
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: D
@@ -4264,6 +4343,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: A
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: D
@@ -4318,6 +4398,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: B
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: D
@@ -4372,6 +4453,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: C
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: D
@@ -4426,6 +4508,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: B
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: D
@@ -4480,6 +4563,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: A
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: D
@@ -4534,6 +4618,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: B
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: E
@@ -4588,6 +4673,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: B
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: E
@@ -4642,6 +4728,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: D
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: E
@@ -4696,6 +4783,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: B
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: E
@@ -4750,6 +4838,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: C
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: E
@@ -4804,6 +4893,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: B
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: E
@@ -4858,6 +4948,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: D
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: E
@@ -4912,6 +5003,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: A
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: E
@@ -4966,6 +5058,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: B
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: E
@@ -5020,6 +5113,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: C
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: E
@@ -5074,6 +5168,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: B
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: E
@@ -5128,6 +5223,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: A
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: B
 SIM @ DBQ Refs: E
@@ -5182,6 +5278,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: B
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: A
@@ -5236,6 +5333,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: C
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: A
@@ -5290,6 +5388,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: E
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: A
@@ -5344,6 +5443,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: C
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: A
@@ -5398,6 +5498,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: D
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: A
@@ -5452,6 +5553,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: C
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: A
@@ -5506,6 +5608,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: E
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: A
@@ -5560,6 +5663,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: B
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: A
@@ -5614,6 +5718,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: C
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: A
@@ -5668,6 +5773,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: D
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: A
@@ -5722,6 +5828,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: C
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: A
@@ -5776,6 +5883,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: B
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: A
@@ -5830,6 +5938,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: C
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: B
@@ -5884,6 +5993,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: C
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: B
@@ -5938,6 +6048,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: E
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: B
@@ -5992,6 +6103,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: C
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: B
@@ -6046,6 +6158,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: D
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: B
@@ -6100,6 +6213,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: C
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: B
@@ -6154,6 +6268,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: E
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: B
@@ -6208,6 +6323,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: A
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: B
@@ -6262,6 +6378,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: C
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: B
@@ -6316,6 +6433,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: D
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: B
@@ -6370,6 +6488,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: C
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: B
@@ -6424,6 +6543,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: A
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: B
@@ -6478,6 +6598,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: C
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: D
@@ -6532,6 +6653,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: C
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: D
@@ -6586,6 +6708,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: E
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: D
@@ -6640,6 +6763,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: C
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: D
@@ -6694,6 +6818,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: B
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: D
@@ -6748,6 +6873,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: C
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: D
@@ -6802,6 +6928,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: E
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: D
@@ -6856,6 +6983,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: A
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: D
@@ -6910,6 +7038,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: C
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: D
@@ -6964,6 +7093,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: B
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: D
@@ -7018,6 +7148,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: C
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: D
@@ -7072,6 +7203,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: A
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: D
@@ -7126,6 +7258,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: C
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: E
@@ -7180,6 +7313,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: C
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: E
@@ -7234,6 +7368,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: D
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: E
@@ -7288,6 +7423,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: C
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: E
@@ -7342,6 +7478,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: B
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: E
@@ -7396,6 +7533,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: C
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: E
@@ -7450,6 +7588,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: D
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: E
@@ -7504,6 +7643,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: A
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: E
@@ -7558,6 +7698,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: C
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: E
@@ -7612,6 +7753,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: B
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: E
@@ -7666,6 +7808,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: C
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: E
@@ -7720,6 +7863,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: A
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: C
 SIM @ DBQ Refs: E
@@ -7774,6 +7918,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: C
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: A
@@ -7828,6 +7973,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: D
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: A
@@ -7882,6 +8028,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: E
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: A
@@ -7936,6 +8083,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: D
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: A
@@ -7990,6 +8138,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: C
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: A
@@ -8044,6 +8193,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: D
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: A
@@ -8098,6 +8248,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: E
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: A
@@ -8152,6 +8303,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: B
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: A
@@ -8206,6 +8358,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: D
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: A
@@ -8260,6 +8413,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: C
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: A
@@ -8314,6 +8468,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: D
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: A
@@ -8368,6 +8523,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: B
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: A
@@ -8422,6 +8578,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: D
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: B
@@ -8476,6 +8633,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: D
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: B
@@ -8530,6 +8688,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: E
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: B
@@ -8584,6 +8743,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: D
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: B
@@ -8638,6 +8798,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: C
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: B
@@ -8692,6 +8853,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: D
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: B
@@ -8746,6 +8908,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: E
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: B
@@ -8800,6 +8963,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: A
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: B
@@ -8854,6 +9018,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: D
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: B
@@ -8908,6 +9073,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: C
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: B
@@ -8962,6 +9128,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: D
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: B
@@ -9016,6 +9183,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: A
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: B
@@ -9070,6 +9238,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: D
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: C
@@ -9124,6 +9293,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: D
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: C
@@ -9178,6 +9348,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: E
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: C
@@ -9232,6 +9403,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: D
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: C
@@ -9286,6 +9458,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: B
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: C
@@ -9340,6 +9513,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: D
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: C
@@ -9394,6 +9568,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: E
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: C
@@ -9448,6 +9623,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: A
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: C
@@ -9502,6 +9678,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: D
 LUT @ SIM Refs: E
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: C
@@ -9556,6 +9733,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: B
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: C
@@ -9610,6 +9788,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: D
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: C
@@ -9664,6 +9843,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: A
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: C
@@ -9718,6 +9898,7 @@ DBQ @ BVU Refs: E
 CEN @ NWU Refs: D
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: E
@@ -9772,6 +9953,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: D
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: E
@@ -9826,6 +10008,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: C
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: E
@@ -9880,6 +10063,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: D
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: E
@@ -9934,6 +10118,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: B
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: E
@@ -9988,6 +10173,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: D
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: E
@@ -10042,6 +10228,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: C
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: E
@@ -10096,6 +10283,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: A
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: E
@@ -10150,6 +10338,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: D
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: E
@@ -10204,6 +10393,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: B
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: E
@@ -10258,6 +10448,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: D
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: E
@@ -10312,6 +10503,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: A
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: D
 SIM @ DBQ Refs: E
@@ -10366,6 +10558,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: D
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: A
@@ -10420,6 +10613,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: E
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: A
@@ -10474,6 +10668,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: D
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: A
@@ -10528,6 +10723,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: E
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: A
@@ -10582,6 +10778,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: C
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: A
@@ -10636,6 +10833,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: E
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: A
@@ -10690,6 +10888,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: D
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: A
@@ -10744,6 +10943,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: B
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: A
@@ -10798,6 +10998,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: E
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: A
@@ -10852,6 +11053,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: C
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: A
@@ -10906,6 +11108,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: E
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: A
@@ -10960,6 +11163,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: B
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: A
@@ -11014,6 +11218,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: E
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: B
@@ -11068,6 +11273,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: E
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: B
@@ -11122,6 +11328,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: D
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: B
@@ -11176,6 +11383,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: E
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: B
@@ -11230,6 +11438,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: C
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: B
@@ -11284,6 +11493,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: E
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: B
@@ -11338,6 +11548,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: D
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: B
@@ -11392,6 +11603,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: A
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: B
@@ -11446,6 +11658,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: E
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: B
@@ -11500,6 +11713,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: C
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: B
@@ -11554,6 +11768,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: E
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: B
@@ -11608,6 +11823,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: A
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: B
@@ -11662,6 +11878,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: E
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: C
@@ -11716,6 +11933,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: E
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: C
@@ -11770,6 +11988,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: D
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: C
@@ -11824,6 +12043,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: E
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: C
@@ -11878,6 +12098,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: B
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: C
@@ -11932,6 +12153,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: E
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: C
@@ -11986,6 +12208,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: D
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: C
@@ -12040,6 +12263,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: A
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: C
@@ -12094,6 +12318,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: E
 LUT @ SIM Refs: D
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: C
@@ -12148,6 +12373,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: B
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: C
@@ -12202,6 +12428,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: E
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: C
@@ -12256,6 +12483,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: A
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: C
@@ -12310,6 +12538,7 @@ DBQ @ BVU Refs: D
 CEN @ NWU Refs: E
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: D
@@ -12364,6 +12593,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: E
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: D
@@ -12418,6 +12648,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: C
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: D
@@ -12472,6 +12703,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: E
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: D
@@ -12526,6 +12758,7 @@ DBQ @ BVU Refs: A
 CEN @ NWU Refs: B
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: D
@@ -12580,6 +12813,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: E
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: D
@@ -12634,6 +12868,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: C
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: D
@@ -12688,6 +12923,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: A
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: D
@@ -12742,6 +12978,7 @@ DBQ @ BVU Refs: B
 CEN @ NWU Refs: E
 LUT @ SIM Refs: C
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: D
@@ -12796,6 +13033,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: B
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: D
@@ -12850,6 +13088,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: E
 LUT @ SIM Refs: A
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: D
@@ -12904,6 +13143,7 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: A
 LUT @ SIM Refs: B
 
+------------------
 Week 3
 BVU @ LOR Refs: E
 SIM @ DBQ Refs: D
@@ -12958,3 +13198,4 @@ DBQ @ BVU Refs: C
 CEN @ NWU Refs: E
 LUT @ SIM Refs: B
 
+------------------
