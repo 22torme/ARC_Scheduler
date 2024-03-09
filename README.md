@@ -24,4 +24,6 @@ No crew is allowed to go to the same site more than once in a season.
 
 Crews will be assigned to 7 games minimum, one crew will be assigned to 8 games. 
 
+Each crew must see every teams.
+
 Determine all valid combinations of crew assignments based on the above criteria/constraints. 
