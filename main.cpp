@@ -9,6 +9,8 @@
 #include "Schedule.h"
 #include <set>
 
+
+
 bool areEqualIgnoringOrder(const std::vector<int>& list1, const std::vector<int>& list2) {
     // Convert vectors to multisets
     std::multiset<int> multiset1(list1.begin(), list1.end());
@@ -68,7 +70,6 @@ void Solve(Schedule& ARC, std::vector<int>& refAssignments, const std::vector<in
     }
 }
 
-
 std::vector<int> distributeGames(int totalGames, int numRefs) {
     // Initialize the vector with the base number of games per ref
     int baseGames = totalGames / numRefs;
@@ -83,10 +84,8 @@ std::vector<int> distributeGames(int totalGames, int numRefs) {
     return gamesPerRef;
 }
 
-
-//--------------------------------------------------------//
-
 int main() {
+
     time_t start,end;
     time(&start);
 
@@ -108,7 +107,7 @@ int main() {
     int numTeams = 9; 
     int numRefs = 5; //gonna have to manually input
 
-    std::vector<std::string> teamNames = {"BVU", "LOR", "SIM", "DBQ", "WAR", "CEN", "COE", "LUT", "NWU"};
+    std::vector<std::string> teams = {"BVU", "LOR", "SIM", "DBQ", "WAR", "CEN", "COE", "LUT", "NWU"};
 
     // std::vector<std::unordered_set<std::string>> teamEachRefSeen = {{},{},{},{},{}}; // (A=0, B=1, C=2, D=3, E=4)
 
@@ -116,7 +115,7 @@ int main() {
     std::vector<Schedule> solutions;
 
     //Initialize schedule
-    Schedule ARC(weeks, teamNames, numWeeks, gamesPerWeek, numTeams, numRefs);
+    Schedule ARC(weeks, teams, numWeeks, gamesPerWeek, numTeams, numRefs);
 
     //counts # of assignments for each ref
     std::vector<int> refAssignments(ARC.getNumRefs(), 0);  // Initialize with 0 for all refs (A=0, B=1, C=2, D=3, E=4)
