@@ -18,12 +18,13 @@ public:
     void printSchedule() const;
     char getRef(int week, int game) const;
     bool isComplete() const;
-    bool isValid(int week, int game, char refCrew) const;
+    bool isValid(int week, int game, char refCrew, bool allowCrews2WeeksOffInRow, bool allowCrewsSeeSameTeam2WeeksInRow, bool allowCrewsSeeSameTeamMoreThanTwicePerSeason, bool allowCrewsToGoToSameSiteMoreThanTwice) const;
     void outputFile(std::ofstream& output) const;
     int getWeeks();
     bool refsSeenEachTeam();
     int getNumRefs() const;
     int getNumGamesPerWeek() const;
+    void printGameSchedule() const;
 
 private:
     std::vector<std::vector<Game>> weeks;

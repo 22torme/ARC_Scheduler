@@ -61,14 +61,16 @@ bool Schedule::isComplete() const {
     return true;
 }
 
-bool Schedule::isValid(int week, int game, char refCrew) const {
+bool Schedule::isValid(int week, int game, char refCrew, bool allowCrews2WeeksOffInRow, bool allowCrewsSeeSameTeam2WeeksInRow, bool allowCrewsSeeSameTeamMoreThanTwicePerSeason, bool allowCrewsToGoToSameSiteMoreThanTwice) const {
 
-    if(game == gamesPerWeek && week > 0){
-        if(weeks[week-1][gamesPerWeek].getRefCrew() == refCrew){
-            return false;
+    if(!allowCrews2WeeksOffInRow){
+        if(game == gamesPerWeek && week > 0){
+            if(weeks[week-1][gamesPerWeek].getRefCrew() == refCrew){
+                return false;
+            }
         }
     }
-    
+
     //check if ref is already assigned for week
     for(int i = 0; i<gamesPerWeek; i++){
         if(weeks[week][i].getRefCrew() == refCrew){
@@ -76,53 +78,59 @@ bool Schedule::isValid(int week, int game, char refCrew) const {
         }
     }
 
-    //check if crew saw same team last week
-    if(week > 0){
-        for(int i = 0; i<gamesPerWeek; i++){
-            if(weeks[week-1][i].getRefCrew() == refCrew){
-                if(weeks[week-1][i].getAwayTeam() == weeks[week][game].getAwayTeam() || weeks[week-1][i].getAwayTeam() == weeks[week][game].getHomeTeam() || weeks[week-1][i].getHomeTeam() == weeks[week][game].getAwayTeam() || weeks[week-1][i].getHomeTeam() == weeks[week][game].getHomeTeam()){
-                    return false;
+    if(!allowCrewsSeeSameTeam2WeeksInRow){
+        //check if crew saw same team last week
+        if(week > 0){
+            for(int i = 0; i<gamesPerWeek; i++){
+                if(weeks[week-1][i].getRefCrew() == refCrew){
+                    if(weeks[week-1][i].getAwayTeam() == weeks[week][game].getAwayTeam() || weeks[week-1][i].getAwayTeam() == weeks[week][game].getHomeTeam() || weeks[week-1][i].getHomeTeam() == weeks[week][game].getAwayTeam() || weeks[week-1][i].getHomeTeam() == weeks[week][game].getHomeTeam()){
+                        return false;
+                    }
                 }
             }
         }
     }
 
-    //check if crew reffed home team at all
-    for(int i = 0; i<numWeeks; i++){
-        for(int j = 0; j<gamesPerWeek; j++){
-            if(weeks[i][j].getRefCrew() == refCrew){
-                if(weeks[i][j].getHomeTeam() == weeks[week][game].getHomeTeam()){
-                    return false;
+    if(!allowCrewsToGoToSameSiteMoreThanTwice){
+        //check if crew reffed home team at all
+        for(int i = 0; i<numWeeks; i++){
+            for(int j = 0; j<gamesPerWeek; j++){
+                if(weeks[i][j].getRefCrew() == refCrew){
+                    if(weeks[i][j].getHomeTeam() == weeks[week][game].getHomeTeam()){
+                        return false;
+                    }
                 }
             }
         }
     }
 
-    // check if ref has seen same team more than twice
-    int countAwayTeam = 0;
-    int countHomeTeam = 0;
-    int assignmentCount = 0;
-    for(int i = 0; i < numWeeks; i++){ 
-        for(int j = 0; j < gamesPerWeek; j++){
-            if(weeks[i][j].getRefCrew() == refCrew){
-                assignmentCount++;
-                if(weeks[i][j].getAwayTeam() == weeks[week][game].getAwayTeam() || weeks[i][j].getHomeTeam() == weeks[week][game].getAwayTeam()){
-                    countAwayTeam++;
-                }
-                if(weeks[i][j].getAwayTeam() == weeks[week][game].getHomeTeam() || weeks[i][j].getHomeTeam() == weeks[week][game].getHomeTeam()){
-                    countHomeTeam++;
+    if(!allowCrewsSeeSameTeamMoreThanTwicePerSeason){
+        // check if ref has seen same team more than twice
+        int countAwayTeam = 0;
+        int countHomeTeam = 0;
+        int assignmentCount = 0;
+        for(int i = 0; i < numWeeks; i++){ 
+            for(int j = 0; j < gamesPerWeek; j++){
+                if(weeks[i][j].getRefCrew() == refCrew){
+                    assignmentCount++;
+                    if(weeks[i][j].getAwayTeam() == weeks[week][game].getAwayTeam() || weeks[i][j].getHomeTeam() == weeks[week][game].getAwayTeam()){
+                        countAwayTeam++;
+                    }
+                    if(weeks[i][j].getAwayTeam() == weeks[week][game].getHomeTeam() || weeks[i][j].getHomeTeam() == weeks[week][game].getHomeTeam()){
+                        countHomeTeam++;
+                    }
                 }
             }
         }
-    }
-    if(countAwayTeam == 2 || countHomeTeam == 2){
-        return false;
+        if(countAwayTeam == 2 || countHomeTeam == 2){
+            return false;
+        }
     }
 
-    //ref cannot exceed 8 assignments
-    if(assignmentCount == 8){
-        return false;
-    }
+    // //ref cannot exceed 8 assignments
+    // if(assignmentCount == 8){
+    //     return false;
+    // }
 
     return true;
 }       
@@ -146,3 +154,18 @@ void Schedule::outputFile(std::ofstream& output) const {
 int Schedule::getNumRefs() const { return numRefs; }
 
 int Schedule::getNumGamesPerWeek() const { return gamesPerWeek; }
+
+void Schedule::printGameSchedule() const {
+    std::cout << "\t";
+    for(int i = 0; i < gamesPerWeek; i++){
+        std::cout << "Game " << i+1 << "\t";
+    }
+    std::cout << std::endl;
+    for (int i = 0; i < numWeeks; i++) {
+        std::cout << "Week " << i + 1 << ": \t";
+        for (int j = 0; j < gamesPerWeek; j++) {
+            std::cout << weeks[i][j].getAwayTeam() << " @ " << weeks[i][j].getHomeTeam() << "\t";
+        }
+        std::cout << std::endl;
+    }
+}

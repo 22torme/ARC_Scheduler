@@ -10,7 +10,9 @@ public:
     void setRefCrew(char refCrewToSet);
     char getRefCrew() const;
     std::string getAwayTeam() const;
-    std::string getHomeTeam() const;
+    std::string getHomeTeam() const;\
+    void setAwayTeam(std::string awayTeamToSet);
+    void setHomeTeam(std::string homeTeamToSet);
 
 private:
     char refCrew = ' '; // A-E
