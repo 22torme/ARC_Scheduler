@@ -21,7 +21,7 @@ bool areEqualIgnoringOrder(const std::vector<int>& list1, const std::vector<int>
     return multiset1 == multiset2;
 }
 
-void Solve(Schedule& ARC, std::vector<int>& refAssignments, const std::vector<int>& fairAssignment, int max, std::vector<Schedule>& solutions, int weekIndex = 0, int gameIndex = 0, bool allowCrews2WeeksOffInRow, bool allowCrewsSeeSameTeam2WeeksInRow, bool allowCrewsSeeSameTeamMoreThanTwicePerSeason, bool allowCrewsToGoToSameSiteMoreThanTwice, bool crewsMustSeeEachTeam) {
+void Solve(Schedule& ARC, std::vector<int>& refAssignments, const std::vector<int>& fairAssignment, int max, std::vector<Schedule>& solutions, int weekIndex = 0, int gameIndex = 0, bool allowCrews2WeeksOffInRow=false, bool allowCrewsSeeSameTeam2WeeksInRow=false, bool allowCrewsSeeSameTeamMoreThanTwicePerSeason=false, bool allowCrewsToGoToSameSiteMoreThanTwice=false, bool crewsMustSeeEachTeam=true) {
     // If all weeks are processed, check if one referee has 8 assignments and the rest 7 assignments
     if (weekIndex == ARC.getWeeks()) { //last week
     //checks to make sure assingment fair
